@@ -1,0 +1,6518 @@
+/* Normal desktop :1400px. */
+@media (min-width: 1400px) and (max-width: 1600px) {
+
+/*Acceuil 1 Resopnsive*/
+
+.hero-social-icon {
+    left: 15px;
+}
+
+.text-box span {
+    font-size: 20px;
+}
+
+.project-area {
+    padding-left: 199px;
+}
+
+/*===============Acceuil two Responsive Css============*/
+
+.Acceuil-two .project-content {
+    width: 84%;
+}
+
+/*===============Acceuil Three Responsive Css============*/
+.Acceuil-three .header-menu ul li {
+    margin-right: 34px;
+}
+
+.Acceuil-three .header-button {
+    margin-right: 10px;
+}
+
+.Acceuil-three .header-secrch-icon i {
+    width: 17px;
+}
+
+.Acceuil-three.project-area .container-fluid {
+    margin: 0 0 0 41px;
+}
+
+/*===============Acceuil Four Responsive Css============*/
+.Acceuil-four .header-menu ul li {
+    margin-right: 32px;
+}
+
+/*===============Acceuil Five Responsive Css============*/
+.Acceuil-five .hero-info {
+    left: -248px;
+}
+
+.hero-slide-five .owl-dots {
+    left: 40%;
+    width: 26%;
+    padding: 49px 103px;
+}
+
+.slider-counter:before {
+   display: none;
+}
+
+.Acceuil-five .section-title.left h1 {
+    font-size: 36px;
+    line-height: 40px;
+}
+
+/*===============Acceuil Six Responsive Css============*/
+.Acceuil-six.skill-area {
+    background-position: center left;
+}
+
+/*===============Acceuil Seven Responsive Css============*/
+
+.services-title-area.Acceuil-seven .row.upper {
+    margin-left: 100px;
+}
+
+.Acceuil-seven .project-content-two {
+    width: 88%;
+}
+
+
+
+
+
+
+
+
+}
+
+/* Normal desktop :1300px. */
+@media (min-width: 1300px) and (max-width: 1399px) {
+
+/*Acceuil 1 Resopnsive*/
+.header-menu ul li {
+    margin-right: 39px;
+}
+
+.hero-social-icon {
+    left: 32px;
+}
+
+.about-area .section-title.left {
+    margin-bottom: 28px;
+}
+
+.about-thumb img {
+    width: 100%;
+}
+
+img.about-thumb-shape {
+    bottom: -8px;
+    width: 58%;
+}
+
+.about-box-content p {
+    width: 70%;
+}
+
+.about-shape-1 {
+    right: -15px;
+}
+
+.section-title.left h4 {
+    margin-bottom: 19px;
+}
+
+.section-title.left h1 {
+    font-size: 34px;
+    line-height: 34px;
+}
+
+.service-area {
+    padding: 113px 0 112px;
+}
+
+.skills-item {
+    width: 49%;
+}
+
+.skills-item-content {
+    padding: 18px 21px 18px 26px;
+}
+
+.skills-item-title h4 {
+    font-size: 18px;
+}
+
+.porcess-thumb img {
+    width: 100%;
+}
+
+.project-area {
+    padding-left: 171px;
+}
+
+.project-area .owl-nav {
+    position: relative;
+    left: 210px;
+    top: 49px;
+}
+
+.project-content a {
+    font-size: 24px;
+}
+
+.single-testimonial-box {
+    padding: 34px 32px 32px;
+}
+
+.single-shape {
+    right: 3px;
+    top: -7px;
+}
+
+
+
+/*===============Acceuil two Responsive Css============*/
+
+.Acceuil-two.header-area .header-menu ul li {
+    display: inline-block;
+    margin-right: 24px;
+}
+
+.Acceuil-two .hero-content h1 {
+    font-size: 65px;
+    line-height: 65px;
+}
+
+.Acceuil-two .about-video { 
+   right: 33px;
+}
+
+.Acceuil-two.counter-area .section-title.left h1 {
+    font-size: 34px;
+    line-height: 34px;
+}
+
+.counter-content p {
+    font-size: 17px;
+    margin: -2px 0 0;
+}
+
+.Acceuil-two .project-content {
+    width: 86%;
+}
+
+.blog-content a {
+    font-size: 20px;
+    line-height: 28px;
+}
+
+.footer-social-address-content h4 {
+    font-size: 31px;
+}
+
+.Acceuil-two p.footer-desc {
+    width: 80%;
+}
+
+.Acceuil-two .footer-widget-blog-content a {
+    font-size: 16px;
+    line-height: 26px;
+}
+
+/*===============Acceuil Three Responsive Css============*/
+.Acceuil-three .header-menu ul li {
+    margin-right: 25px;
+}
+
+.Acceuil-three .header-button {
+    margin-right: 10px;
+}
+
+.Acceuil-three .header-button a {
+    padding: 14px 29px;
+    margin-left: 0;
+}
+
+.Acceuil-three .header-secrch-icon i {
+    width: 0;
+}
+
+.Acceuil-three .single-service-box {
+    padding: 50px 9px 49px;
+}
+
+.Acceuil-three .services-content h4 {
+    font-size: 16px;
+}
+
+.Acceuil-three.project-area .container-fluid {
+    margin: 0 0 0 41px;
+}
+
+.Acceuil-three .meta-blog span {
+    margin-right: 13px;
+}
+
+.Acceuil-three .blog-title a {
+    font-size: 19px;
+    line-height: 29px;
+}
+
+
+/*===============Acceuil Four Responsive Css============*/
+
+
+.Acceuil-four .about-thumb {
+    position: relative;
+    left: -72px;
+}
+
+.Acceuil-four .about-text h4 {
+    font-size: 18px;
+}
+
+.Acceuil-four .single-services-box {
+    padding: 35px 21px 45px;
+}
+
+.Acceuil-four .testi-thumb {
+    position: relative;
+    left: 9px;
+}
+
+.Acceuil-four .call-do-action-content h4 {
+    font-size: 37px;
+}
+
+/*===============Acceuil Six Responsive Css============*/
+
+.Acceuil-six.header-area .header-menu ul li {
+    margin-right: 23px;
+}
+
+.Acceuil-six.about-area .about-thumb {
+    left: -43px;
+}
+
+.Acceuil-six .about-list-item ul li {
+    font-size: 15px;
+}
+
+.Acceuil-six.service-area .row.upper {
+    margin-left: 55px;
+}
+
+.Acceuil-six .why-choose-thumb {
+    left: -379px;
+}
+
+.Acceuil-six.skill-area {
+    background-position: center left;
+}
+
+.Acceuil-six .blog-content a {
+    font-size: 20px;
+}
+
+.Acceuil-six .contact-left {
+    left: -69px;
+}
+
+.footer-widget-blog-thumb img {
+    width: 100%;
+}
+
+
+/*===============Acceuil Seven Responsive Css============*/
+
+.Acceuil-seven .hero-content h1 {
+    font-size: 70px;
+    line-height: 70px;
+}
+
+.Acceuil-seven .hero-img {
+    bottom: 100px;
+    left: 30%;
+}
+
+.services-title-area.Acceuil-seven .row.upper {
+    margin-left: 100px;
+}
+
+.Acceuil-seven .project-content-two {
+    width: 88%;
+}
+
+.Acceuil-seven .contact-left iframe {
+    width: 104%;
+}
+
+
+
+
+/*===============All Inner Menu Responsive Css============*/
+.recent-widget-content a {
+    font-size: 15px;
+    line-height: 23px;
+}
+
+h4.blog-details-title {
+    font-size: 28px;
+}
+
+.blog-post-content a {
+    font-size: 15px;
+    line-height: 23px;
+}
+
+
+/*===============Acceuil Five Responsive Css============*/
+.Acceuil-five .hero-info {
+    left: -248px;
+}
+
+.hero-slide-five .owl-dots {
+    left: 40%;
+    width: 26%;
+    padding: 49px 103px;
+}
+
+.slider-counter:before {
+  display: none;
+}
+
+.Acceuil-five .section-title.left h1 {
+    font-size: 36px;
+    line-height: 40px;
+}
+
+.Acceuil-five .about-item-text h4 {
+    font-size: 15px;
+}
+
+.Acceuil-five .about-shape {
+    display: none;
+}
+
+.Acceuil-five .about-thumb {
+    position: relative;
+    left: -45px;
+}
+
+.Acceuil-five .about-icon img {
+    width: 44%;
+}
+
+.Acceuil-five .nav-link {
+    padding: 24px 83px;
+}
+
+.Acceuil-five .section-title.left h1 {
+    font-size: 30px;
+    line-height: 40px;
+}
+
+.Acceuil-five .blog-content {
+    padding: 27px 22px 41px;
+    width: 94%;
+}
+
+.Acceuil-five .blog-content a {
+    font-size: 19px;
+}
+
+.Acceuil-five .footer-widget-gallery a img {
+    width: 30%;
+}
+
+
+
+
+
+}
+
+/* Normal desktop :1200px. */
+@media (min-width: 1200px) and (max-width: 1299px) {
+
+/*Acceuil 1 Resopnsive*/
+.header-menu ul li {
+    margin-right: 38px;
+}
+
+.hero-social-icon {
+    left: 15px;
+    display: none;
+}
+
+.about-area .section-title.left {
+    margin-bottom: 28px;
+}
+
+.about-thumb img {
+    width: 100%;
+}
+
+img.about-thumb-shape {
+    bottom: -8px;
+    width: 58%;
+}
+
+.about-box-content p {
+    width: 70%;
+}
+
+.about-shape-1 {
+    right: -15px;
+}
+
+.section-title.left h4 {
+    margin-bottom: 19px;
+}
+
+.section-title.left h1 {
+    font-size: 34px;
+    line-height: 34px;
+}
+
+.service-area {
+    padding: 113px 0 116px;
+}
+
+.skills-item {
+    width: 49%;
+}
+
+.skills-item-content {
+    padding: 18px 21px 18px 26px;
+}
+
+.skills-item-title h4 {
+    font-size: 18px;
+}
+
+.porcess-thumb img {
+    width: 100%;
+}
+
+.project-area {
+    padding-left: 171px;
+}
+
+.project-area .owl-nav {
+    position: relative;
+    left: 210px;
+    top: 49px;
+}
+
+.project-content a {
+    font-size: 24px;
+}
+
+.single-testimonial-box {
+    padding: 34px 32px 32px;
+}
+
+.single-shape {
+    right: 3px;
+    top: -7px;
+}
+
+.testi-shape {
+    left: 17%;
+}
+
+
+
+/*===============Acceuil two Responsive Css============*/
+
+.Acceuil-two.header-area .header-menu ul li {
+    display: inline-block;
+    margin-right: 24px;
+}
+
+.Acceuil-two .hero-content h1 {
+    font-size: 55px;
+    line-height: 60px;
+}
+
+.Acceuil-two .about-video { 
+   right: 33px;
+}
+
+.Acceuil-two.service-title-area .section-title.center {
+    margin-bottom: 18px;
+}
+
+.Acceuil-two .row.service-up {
+    margin-top: -354px;
+}
+
+.Acceuil-two.counter-area .section-title.left h1 {
+    font-size: 34px;
+    line-height: 34px;
+}
+
+.counter-content p {
+    font-size: 17px;
+    margin: -2px 0 0;
+}
+
+.donation-area .section-title.center {
+    margin-bottom: 9px;
+}
+
+.donation-area .row.donate {
+    margin-top: -241px;
+}
+
+.Acceuil-two .project-content {
+    width: 86%;
+}
+
+.blog-content a {
+    font-size: 20px;
+    line-height: 28px;
+}
+
+.footer-social-address-content h4 {
+    font-size: 31px;
+}
+
+.Acceuil-two p.footer-desc {
+    width: 80%;
+}
+
+.Acceuil-two .footer-widget-blog-content a {
+    font-size: 16px;
+    line-height: 26px;
+}
+
+/*===============Acceuil Three Responsive Css============*/
+.Acceuil-three .header-menu ul li {
+    margin-right: 11px;
+}
+
+.Acceuil-three .header-button {
+    margin-right: 10px;
+}
+
+.Acceuil-three .header-button a {
+    padding: 14px 29px;
+    margin-left: 0;
+}
+
+.Acceuil-three .header-secrch-icon i {
+    width: 40px;
+}
+
+.Acceuil-three .single-service-box {
+    padding: 50px 9px 49px;
+}
+
+.Acceuil-three .services-content h4 {
+    font-size: 16px;
+}
+
+.Acceuil-three.project-area .container-fluid {
+    margin: 0 0 0 41px;
+}
+
+.Acceuil-three .meta-blog span {
+    margin-right: 13px;
+}
+
+.Acceuil-three .blog-title a {
+    font-size: 19px;
+    line-height: 29px;
+}
+
+.Acceuil-three .subscribe-box input {
+    width: 68%;
+}
+
+
+/*===============Acceuil Four Responsive Css============*/
+.Acceuil-four .header-menu ul li {
+    margin-right: 14px;
+}
+
+.Acceuil-four .about-thumb {
+    position: relative;
+    left: -72px;
+}
+
+.Acceuil-four .about-text h4 {
+    font-size: 18px;
+}
+
+.Acceuil-four .single-services-box {
+    padding: 35px 21px 45px;
+}
+
+.Acceuil-four .testi-thumb {
+    position: relative;
+    left: 9px;
+}
+
+.Acceuil-four .call-do-action-content h4 {
+    font-size: 37px;
+}
+
+/*===============All Inner Menu Responsive Css============*/
+
+/*widget-sidber*/
+.widget-sidber-contact-btn  a {
+    padding: 16px 63px 15px;
+}
+
+.recent-widget-content a {
+    font-size: 15px;
+    line-height: 23px;
+}
+
+h4.blog-details-title {
+    font-size: 28px;
+}
+
+.blog-post-content a {
+    font-size: 15px;
+    line-height: 23px;
+}
+
+/*===============Acceuil Five Responsive Css============*/
+.Acceuil-five .hero-info {
+    left: -248px;
+}
+
+.hero-slide-five .owl-dots {
+    left: 40%;
+    width: 36%;
+    padding: 49px 103px;
+}
+
+.slider-counter {
+    left: 61%;
+}
+
+.slider-counter:before {
+  display: none;
+}
+
+.Acceuil-five .section-title.left h1 {
+    font-size: 36px;
+    line-height: 40px;
+}
+
+.Acceuil-five .about-item-text h4 {
+    font-size: 15px;
+}
+
+.Acceuil-five .about-shape {
+    display: none;
+}
+
+.Acceuil-five .about-thumb {
+    position: relative;
+    left: -45px;
+}
+
+.Acceuil-five .about-icon img {
+    width: 44%;
+}
+
+.Acceuil-five .nav-link {
+    padding: 24px 83px;
+}
+
+.Acceuil-five .section-title.left h1 {
+    font-size: 30px;
+    line-height: 40px;
+}
+
+.Acceuil-five .blog-content {
+    padding: 27px 22px 41px;
+    width: 94%;
+}
+
+.Acceuil-five .blog-content a {
+    font-size: 19px;
+}
+
+.Acceuil-five .footer-widget-gallery a img {
+    width: 30%;
+}
+
+/*===============Acceuil Six Responsive Css============*/
+
+.Acceuil-six.header-area .header-menu ul li {
+    margin-right: 23px;
+}
+
+.hero-area.Acceuil-six .hero-content h1 {
+    font-size: 60px;
+    line-height: 75px;
+}
+
+.Acceuil-six.about-area .about-thumb {
+    left: -43px;
+}
+
+.Acceuil-six .about-list-item ul li {
+    font-size: 15px;
+}
+
+.Acceuil-six.service-area .row.upper {
+    margin-left: 55px;
+}
+
+.Acceuil-six .why-choose-thumb {
+    left: -379px;
+}
+
+.Acceuil-six.skill-area {
+    background-position: center left;
+}
+
+.Acceuil-six .blog-content a {
+    font-size: 20px;
+}
+
+.Acceuil-six .contact-left {
+    left: -69px;
+}
+
+.Acceuil-six .contact-content h4 {
+    font-size: 40px;
+    line-height: 36px;
+}
+
+.footer-widget-blog-thumb img {
+    width: 100%;
+}
+
+/*===============Acceuil Seven Responsive Css============*/
+
+.Acceuil-seven .hero-content h1 {
+    font-size: 70px;
+    line-height: 70px;
+}
+
+.Acceuil-seven .hero-img {
+    bottom: 100px;
+    left: 30%;
+}
+
+.services-title-area.Acceuil-seven .row.upper {
+    margin-left: 100px;
+}
+
+.Acceuil-seven .project-content-two {
+    width: 88%;
+    padding: 25px 17px 24px;
+}
+
+.Acceuil-seven .contact-left iframe {
+    width: 104%;
+}
+
+.Acceuil-seven .counter-content-two h4 {
+    font-size: 109px;
+    bottom: -16px;
+    left: -26px;
+}
+
+
+
+}
+
+
+/* Normal desktop :992px. */
+@media (min-width: 992px) and (max-width: 1199px) {
+
+/*Acceuil 1 Resopnsive*/
+.top-header-info ul li {
+    margin-right: 4px;
+}
+
+.header-menu ul li {
+    margin-right: 20px;
+}
+
+.header-menu ul li:last-child {
+    margin-right: 18px;
+}
+
+.hero-area {
+    height: 815px;
+    position: relative;
+}
+
+.hero-social-icon {
+   display: none;
+}
+
+.about-area {
+    padding: 110px 0 123px;
+}
+
+.about-area .section-title.left {
+    margin-bottom: 28px;
+}
+
+.about-thumb img {
+    width: 100%;
+}
+
+img.about-thumb-shape {
+    bottom: -8px;
+    width: 58%;
+}
+
+.about-shape-1 {
+    right: -15px;
+}
+
+.section-title.left h4 {
+    margin-bottom: 10px;
+}
+
+.section-title.left h1 {
+    font-size: 28px;
+    line-height: 28px;
+}
+
+.service-area {
+    padding: 113px 0 111px;
+}
+
+.single-service-box {
+    padding: 15px;
+}
+
+.service-content {
+    padding: 35px 26px 159px;
+}
+
+.service-content h4 {
+    font-size: 22px;
+}
+
+.skills-item {
+    margin-bottom: 21px;
+}
+
+.skills-thumb {
+    left: -26px;
+}
+
+.service-thumb img {
+    padding: 0 20px;
+}
+
+.counter-area {
+    background-position: center center;
+}
+
+.porcess-thumb img {
+    width: 100%;
+}
+
+.project-area {
+    padding: 285px 0 0;
+    padding-left: 120px;
+    margin-top: -176px;
+}
+
+.project-area .owl-nav {
+    position: relative;
+    left: 252px;
+    top: 6px;
+}
+
+.project-content {
+    padding: 30px 18px 28px;
+    width: 92%;
+}
+
+.project-content a {
+    font-size: 24px;
+}
+
+.single-process-box-two {
+    padding: 0 19px 0;
+}
+
+.testimonial-area {
+    background-position: center;
+}
+
+.single-testimonial-box {
+    padding: 34px 32px 32px;
+}
+
+.testi-shape-tow {
+    left: 4%;
+}
+
+.testi-shape-four {
+    right: 4%;
+}
+
+.single-shape {
+    right: 3px;
+    top: -7px;
+}
+
+.testi-shape {
+    left: 17%;
+}
+
+.blog-content {
+    padding: 27px 22px 28px;
+}
+
+.blog-content a {
+    font-size: 21px;
+    line-height: 30px;
+}
+
+.footer-social-address-content h4 {
+    font-size: 31px;
+}
+
+/*===============Acceuil two Responsive Css============*/
+
+.Acceuil-two.header-area .header-menu ul li {
+    display: inline-block;
+    margin-right: 16px;
+}
+
+.Acceuil-two .header-button a {
+    padding: 10px 15px;
+    margin-left: 12px;
+}
+
+.header-sidbar-button i {
+    margin-left: 0;
+    font-size: 30px;
+}
+
+.Acceuil-two .hero-content h1 {
+    font-size: 48px;
+    line-height: 51px;
+}
+
+.Acceuil-two .about-video { 
+   right: 33px;
+}
+
+.Acceuil-two .about-single-box {
+    gap: 30px;
+}
+
+.Acceuil-two .about-author-box {
+    gap: 15px;
+}
+
+.Acceuil-two .about-author-content h4 {
+    font-size: 16px;
+}
+
+.Acceuil-two .about-author-content p {
+    margin-top: 3px;
+}
+
+.Acceuil-two.counter-area .section-title.left h1 {
+    font-size: 28px;
+    line-height: 30px;
+}
+
+.Acceuil-two .single-counter-box {
+    gap: 11px;
+}
+
+.Acceuil-two .counter-content h4 {
+    margin-top: 0;
+    font-size: 24px;
+}
+
+.Acceuil-two .counter-content span {
+    font-size: 26px;
+}
+
+.Acceuil-two .counter-content p {
+    font-size: 13px;
+    margin: -2px 0 0;
+}
+
+.Acceuil-two.service-title-area .section-title.center {
+    margin-bottom: 66px;
+}
+
+.Acceuil-two .row.service-up {
+    margin-top: -416px;
+}
+
+.Acceuil-two .project-content {
+    width: 73%;
+}
+
+.faq-singular .faq-question {
+    font-size: 15px;
+}
+
+.donation-title-area {
+    padding: 109px 0 213px;
+}
+
+.donation-area .row.donate {
+    margin-top: -201px;
+}
+
+.donation-content {
+    padding: 26px 13px 23px;
+}
+
+.donation-content a {
+    font-size: 18px;
+    line-height: 28px;
+}
+
+.blog-content a {
+    font-size: 20px;
+    line-height: 28px;
+}
+
+.footer-social-address-content h4 {
+    font-size: 31px;
+}
+
+.Acceuil-two p.footer-desc {
+    width: 95%;
+}
+
+.Acceuil-two .footer-widget-blog-content a {
+    font-size: 13px;
+    line-height: 22px;
+}
+
+
+/*===============Acceuil Three Responsive Css============*/
+.Acceuil-three .header-menu ul li {
+    margin-right: 11px;
+}
+
+.Acceuil-three .header-menu ul li a {
+    font-size: 11px;
+}
+
+.Acceuil-three .header-button {
+    margin-right: 10px;
+}
+
+.Acceuil-three .header-button a {
+    padding: 11px 18px;
+    margin-left: 0;
+}
+
+.Acceuil-three .header-secrch-icon i {
+    width: 0;
+}
+
+.Acceuil-three .text-area-content h1 {
+    font-size: 40px;
+}
+
+.Acceuil-three .nav-link {
+    font-size: 15px;
+    padding: 12px 22px;
+}
+
+.Acceuil-three .single-about-item {
+    gap: 20px;
+}
+
+.Acceuil-three .about-list-item ul li {
+    font-size: 14px;
+}
+
+.Acceuil-three .single-service-box {
+    padding: 50px 9px 49px;
+}
+
+.Acceuil-three .services-content h4 {
+    font-size: 16px;
+}
+
+.Acceuil-three.project-area .container-fluid {
+    margin: 0 0 0 41px;
+}
+
+.Acceuil-three .blog-content {
+    padding: 37px 15px 39px;
+}
+
+.Acceuil-three .meta-blog span {
+    margin-right: 6px;
+}
+
+.Acceuil-three .blog-title a {
+    font-size: 19px;
+    line-height: 29px;
+}
+
+.Acceuil-three .subscribe-box input {
+    width: 62%;
+}
+
+/*===============Acceuil Four Responsive Css============*/
+
+.Acceuil-four .header-menu {
+    text-align: right;
+    position: relative;
+    left: 85px;
+}
+
+.Acceuil-four .header-logo a {
+    padding: 18px 28px;
+}
+
+.Acceuil-four .header-menu ul li {
+    margin-right: 23px;
+}
+
+.Acceuil-four .hero-content h1 {
+    font-size: 65px;
+    line-height: 66px;
+}
+
+.Acceuil-four .about-thumb {
+    position: relative;
+    left: -72px;
+}
+
+.Acceuil-four .about-single-text-box {
+    width: 50%;
+}
+
+.Acceuil-four .about-text h4 {
+    font-size: 18px;
+}
+
+.Acceuil-four .about-item-box {
+    display: block;
+}
+
+.Acceuil-four .single-services-box {
+    padding: 35px 21px 45px;
+}
+
+.Acceuil-four .services-content h4 {
+    font-size: 22px;
+}
+
+.Acceuil-four .testi-thumb {
+    position: relative;
+    left: -43px;
+}
+
+.Acceuil-four p.testi-text {
+    width: 100%;
+}
+
+.Acceuil-four .info-shape {
+    top: 23px;
+}
+
+.Acceuil-four .blog-content {
+    padding: 27px 20px 21px;
+}
+
+.Acceuil-four .call-do-action-content h4 {
+    font-size: 31px;
+}
+
+
+
+
+
+
+/*===============Services Details Responsive Css============*/
+
+
+.service-details-icon-box {
+    padding: 32px 4px 18px;
+    gap: 13px;
+}
+
+.services-details-area .single-benifits-box {
+    margin-bottom: 40px;
+}
+
+.services-details-area .benifits-content {
+    padding: 30px 21px 23px;
+    width: 98%;
+}
+
+/*widget-sidber*/
+
+.widget-category ul li a {
+    padding: 14px 11px;
+}
+
+.widget-sidber-contact-box {
+    padding: 48px 27px 48px;
+}
+
+.widget-sidber-contact-btn  a {
+    padding: 16px 43px 15px;
+}
+
+/*===============Project Details Responsive Css============*/
+
+.project-details-list-item ul li {
+    font-size: 14px;
+    line-height: 35px;
+}
+
+.project-details-list-item ul li i {
+    font-size: 16px;
+    margin-right: 7px;
+}
+
+/*===============Donation Details Responsive Css============*/
+.widget-sidber {
+    padding: 32px 15px 29px;
+}
+
+.recent-widget-content a {
+    font-size: 15px;
+    line-height: 23px;
+}
+
+.faqs-area.inner .faqs-thumb img {
+    width: 100%;
+    position: relative;
+    left: -12px;
+}
+
+.blog-list-content {
+    border: 1px solid #2222;
+}
+
+a.blog-list-title {
+    font-size: 22px;
+}
+
+.blog-grid-area .blog-content a {
+    font-size: 17px;
+    line-height: 27px;
+}
+
+h4.blog-details-title {
+    font-size: 23px;
+}
+
+.blog-details-author-talk {
+    padding: 41px 30px 40px;
+}
+
+.blog-details-category span a {
+    margin-right: 2px;
+}
+
+.blog-post-box {
+    padding: 84px 21px 31px 20px;
+}
+
+.blog-post-box.style-two {
+    padding: 85px 26px 31px 21px;
+}
+
+.blog-post-content a {
+    font-size: 15px;
+    line-height: 19px;
+}
+
+.blog-details-comment {
+    padding: 29px 11px 25px;
+}
+
+.blog-details-comment.style-two {
+    margin-left: 27px;
+}
+
+.contact-area {
+    padding: 123px 0 86px;
+}
+
+.row.pagla-shahin {
+    padding-top: 63px;
+}
+
+/*===============Acceuil Five Responsive Css============*/
+.top-header-area {
+    display: none;
+}
+
+.Acceuil-five .header-button a {
+    padding: 12px 24px;
+}
+
+.Acceuil-five .hero-info {
+    display: none;
+}
+
+.Acceuil-five.video-area {
+    width: 44%;
+    left: 37px;
+}
+
+.hero-slide-five .owl-dots {
+    left: 40%;
+    width: 36%;
+    padding: 49px 103px;
+}
+
+.slider-counter {
+    left: 64%;
+}
+
+.slider-counter:before {
+  display: none;
+}
+
+.Acceuil-five .animal-link-icon a {
+    left: 49px;
+}
+
+.Acceuil-five .animal-content h4 {
+    font-size: 16px;
+    margin-top: 15px;
+}
+
+.Acceuil-five .section-title.left h1 {
+    font-size: 36px;
+    line-height: 40px;
+}
+
+.Acceuil-five .about-item-text h4 {
+    font-size: 14px;
+}
+
+.Acceuil-five .about-item-text img {
+    margin-right: 4px;
+}
+
+.Acceuil-five .about-shape {
+    display: none;
+}
+
+.Acceuil-five .about-thumb {
+    position: relative;
+    left: -45px;
+}
+
+.Acceuil-five .about-icon img {
+    width: 44%;
+}
+
+.Acceuil-five .nav-link {
+    padding: 24px 61px;
+}
+
+.Acceuil-five .event-titel h4 {
+    font-size: 20px;
+}
+
+.Acceuil-five .donation-right {
+    padding: 169px 26px 203px;
+}
+
+.Acceuil-five .section-title.left h1 {
+    font-size: 26px;
+    line-height: 30px;
+}
+
+.Acceuil-five .contact-info-title h1 {
+    font-size: 20px;
+}
+
+.Acceuil-five .contact-info-box:before {
+    left: -22px;
+}
+
+.Acceuil-five .contact-info-box:after {
+    right: 31px;;
+}
+
+.Acceuil-five .donation-list ul li {
+    margin-right: 2px;
+}
+
+.Acceuil-five .donation-right-content h1 {
+    font-size: 24px;
+}
+
+.Acceuil-five .blog-content {
+    padding: 27px 22px 41px;
+    width: 94%;
+}
+
+.Acceuil-five .blog-content a {
+    font-size: 16px;
+}
+
+.Acceuil-five .footer-contact-info {
+    gap: 11px;
+}
+
+.Acceuil-five .footer-contact-content h4 {
+    font-size: 14px;
+}
+
+.Acceuil-five .footer-widget-title h4 {
+    font-size: 20px;
+}
+
+.Acceuil-five .footer-widget-gallery a img {
+    width: 30%;
+}
+
+
+/*===============Acceuil Six Responsive Css============*/
+
+.Acceuil-six.header-area .header-button a {
+    padding: 10px 26px;
+    margin-left: 6px;
+}
+
+.Acceuil-six.header-area .header-menu ul li {
+    margin-right: 13px;
+}
+
+.hero-area.Acceuil-six .hero-content h1 {
+    font-size: 60px;
+    line-height: 75px;
+}
+
+.Acceuil-six .single-feature-box {
+    padding: 26px 21px 37px;
+}
+
+.Acceuil-six .feature-content h4 {
+    font-size: 16px;
+}
+
+.Acceuil-six .section-title.left h1 {
+    font-size: 35px;
+    line-height: 34px;
+}
+
+.Acceuil-six.about-area .about-thumb {
+    left: -43px;
+}
+
+.Acceuil-six .about-item-box {
+    display: block;
+}
+
+.Acceuil-six .about-list-item ul li {
+    font-size: 15px;
+}
+
+.Acceuil-six.service-area .row.upper {
+    margin-left: 55px;
+}
+
+.Acceuil-six .services-content h4 {
+    font-size: 19px;
+}
+
+.Acceuil-six .why-choose-thumb {
+    left: -459px;
+}
+
+.Acceuil-six .single-pricing-box {
+    padding: 42px 14px 53px;
+}
+
+.Acceuil-six .Equipe-content h4 {
+    font-size: 18px;
+}
+
+.Acceuil-six.skill-area {
+    background-position: center left;
+}
+
+.Acceuil-six .skill-bar span {
+    left: 111px;
+}
+
+.Acceuil-six span.skill-count2 {
+    left: 83px !important;
+}
+
+.Acceuil-six span.skill-count3 {
+    left: 135px !important;
+}
+
+.Acceuil-six .blog-content a {
+    font-size: 16px;
+}
+
+.Acceuil-six .contact-left {
+    left: -69px;
+}
+
+.Acceuil-six .contact-content h4 {
+    font-size: 30px;
+    line-height: 26px;
+}
+
+.Acceuil-six .footer-widget-menu ul {
+    margin-right: 3px;
+}
+
+.footer-widget-blog-thumb img {
+    width: 90%;
+}
+
+.Acceuil-six .footer-widget-blog {
+    gap: 0px;
+}
+
+
+/*===============Acceuil Seven Responsive Css============*/
+.Acceuil-seven .hero-content h1 {
+    font-size: 60px;
+    line-height: 60px;
+}
+
+.Acceuil-seven .hero-img {
+    bottom: 95px;
+    left: 31%;
+}
+
+.services-title-area.Acceuil-seven .row.upper {
+    margin-left: 0;
+}
+
+.Acceuil-seven .project-content-two {
+    padding: 25px 24px 37px;
+    width: 83%;
+}
+
+.counter-area.Acceuil-seven {
+    padding-left: 19px;
+}
+
+.Acceuil-seven .counter-content-two h4 {
+    font-size: 100px;
+    bottom: -4px;
+    left: -4px;
+}
+
+.Acceuil-seven .testi-author-rating {
+    top: 71px;
+    right: 0px;
+}
+
+.Acceuil-seven .contact-left iframe {
+    width: 106%;
+}
+
+
+
+
+
+}
+
+
+/* Normal desktop :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+
+/*Acceuil 1 Resopnsive*/
+.top-header-area {
+    display: none;
+}
+
+.header-area {
+    display: none;
+}
+
+.sticky {
+    position: absolute !important;
+}
+
+.hero-area {
+    height: 750px;
+    padding-top: 44px;
+}
+
+.hero-social-icon {
+    display: none;
+}
+
+.hero-content p {
+    width: 70%;
+}
+
+.about-thumb {
+    left: 0;
+    padding-bottom: 36px;
+}
+
+.about-thumb img {
+    width: 100%;
+}
+
+img.about-thumb-shape {
+    bottom: -8px;
+    width: 58%;
+}
+
+.section-title.left h4 {
+    margin-bottom: 17px;
+}
+
+.section-title.left h1 {
+    font-size: 40px;
+    line-height: 40px;
+}
+
+.about-shape-2 {
+    left: 248px;
+}
+
+.about-box-content p {
+    width: 74%;
+}
+
+.service-area {
+    padding: 113px 0 110px;
+}
+
+
+.skill-area {
+    padding: 112px 0 106px;
+}
+
+p.section-desc {
+    width: 96%;
+}
+
+.skills-item {
+    width: 49%;
+}
+
+.skills-item-title h4 {
+    font-size: 18px;
+}
+
+.skills-item-content {
+    gap: 12px;
+    padding: 18px 20px 18px 18px;
+}
+
+.skills-thumb {
+    left: 0;
+}
+
+.skills-thumb img {
+    width: 100%;
+    padding-top: 38px;
+}
+
+.skills-shape {
+    top: 36px;
+    left: 72px;
+}
+
+.counter-area {
+    padding: 80px 0 134px;
+    background-position: center center;
+}
+
+.single-counter-box {
+    margin-bottom: 37px;
+}
+
+#poress-row {
+    padding: 18px 7px 36px;
+}
+
+.porcess-thumb {
+    position: relative;
+    left: 0;
+    padding-bottom: 28px;
+}
+
+.porcess-thumb img {
+    width: 100%;
+}
+
+.project-area {
+    padding-left: 20px;
+}
+
+.project-area .owl-nav {
+    position: relative;
+    left: 252px;
+    top: 46px;
+}
+
+.project-content a {
+    font-size: 24px;
+}
+
+.single-process-box-two {
+    padding: 0 11px 0;
+}
+
+.single-process-box-two.style-three::before {
+    display: none;
+}
+
+.testi-shape {
+    left: -6%;
+}
+
+#brand-bg {
+    padding: 80px 0 61px;
+}
+
+.single-shape {
+    display: none;
+}
+
+.testimonial-area {
+    background-position: center;
+}
+
+.testi-shape-four {
+    top: 244px;
+    right: 1%;
+}
+
+.testi-shape-tow {
+    top: 235px;
+    left: 0%;
+}
+
+.blog-area .echofy-button {
+    margin-top: 0;
+    float: left;
+    margin-bottom: 60px;
+}
+
+.blog-content {
+    padding: 27px 22px 28px;
+}
+
+.footer-social-icon {
+    text-align: left;
+    padding-top: 25px;
+}
+
+.footer-widget-content {
+    margin-bottom: 25px;
+}
+
+.footer-bottom-area {
+    padding: 74px 0 33px;
+}
+
+/*===============Acceuil two Responsive Css============*/
+
+.hero-area.Acceuil-two {
+    height: 730px;
+    padding-top: 76px;
+}
+
+.Acceuil-two .hero-content h1 {
+    font-size: 40px;
+    line-height: 40px;
+}
+
+.Acceuil-two p.about-desc {
+    width: 80%;
+}
+
+.Acceuil-two .about-thumb {
+    left: 0;
+}
+
+.Acceuil-two .about-video {
+    right: 61px;
+}
+
+.Acceuil-two .about-single-box {
+    gap: 30px;
+}
+
+.Acceuil-two .about-author-box {
+    gap: 15px;
+}
+
+.Acceuil-two .about-author-content h4 {
+    font-size: 16px;
+}
+
+.Acceuil-two .about-author-content p {
+    margin-top: 3px;
+}
+
+.Acceuil-two.service-title-area {
+    padding: 112px 0 233px;
+}
+
+.services-shape-one {
+    top: 11%;
+    left: 2%;
+}
+
+.services-shape-two {
+    top: 15%;
+    right: 8%;
+}
+
+.Acceuil-two .row.service-up {
+    margin-top: -339px;
+}
+
+.Acceuil-two .service-content {
+    padding: 64px 19px 23px;
+}
+
+.Acceuil-two .project-content {
+    width: 92%;
+    left: 14px;
+}
+
+.faq-singular .faq-question {
+    font-size: 17px;
+}
+
+.faqs-area p.section-desc {
+    width: 71%;
+}
+
+.faqs-area .echofy-button {
+    margin-bottom: 38px;
+}
+
+.donation-title-area {
+    padding: 109px 0 236px;
+}
+
+.donation-area .row.donate {
+    margin-top: -225px;
+}
+
+.donation-content {
+    padding: 26px 24px 23px;
+}
+
+.donation-content a {
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.donation-shape-one {
+    top: 18%;
+    left: 0%;
+}
+
+.donation-shape-two {
+    top: 17%;
+    right: 3%;
+}
+
+.Acceuil-two.testimonial-area {
+    background-position: center right;
+    padding: 100px 0 100px;
+}
+
+.Acceuil-two.testimonial-area .testi-shape {
+    left: -13%;
+}
+
+.Acceuil-two.testimonial-area .single-testimonial-box {
+    padding: 34px 46px 32px;
+}
+
+.text-block {
+    font-size: 9vw;
+}
+
+.blog-content a {
+    font-size: 20px;
+    line-height: 28px;
+}
+
+.footer-social-address-content h4 {
+    font-size: 31px;
+}
+
+.Acceuil-two p.footer-desc {
+    width: 95%;
+}
+
+
+
+/*===============Acceuil Three Responsive Css============*/
+
+.Acceuil-three.text-area {
+    padding: 179px 0 111px;
+}
+
+.Acceuil-three .text-area-content h1 {
+    font-size: 35px;
+}
+
+.Acceuil-three .text-area-content p {
+    width: 90%;
+}
+
+.Acceuil-three.hero-area {
+    height: 550px;
+    padding-top: 15px;
+}
+
+.Acceuil-three .hero-content h2 {
+    font-size: 32px;
+    letter-spacing: 10px;
+}
+
+.Acceuil-three .about-thumb {
+    left: 0;
+}
+
+.Acceuil-three .single-service-box {
+    margin-bottom: 20px;
+}
+
+.Acceuil-three.counter-area p.section-desc {
+    width: 76%;
+}
+
+.Acceuil-three .single-counter-box {
+    margin-top: 22px;
+}
+
+.Acceuil-three.project-area .section-title.left h1 {
+    font-size: 32px;
+    line-height: 40px;
+}
+
+.Acceuil-three.project-area .container-fluid {
+    margin: 0 0 0 25px;
+}
+
+.Acceuil-three.skill-area {
+    background-position: center right;
+}
+
+.Acceuil-three .vedio-content {
+    display: none;
+}
+
+.Acceuil-three .faqs-thumb {
+    margin-top: 17px;
+}
+
+.Acceuil-three .blog-content {
+    padding: 37px 18px 39px;
+}
+
+.Acceuil-three .meta-blog span {
+    margin-right: 12px;
+}
+
+.Acceuil-three .blog-title a {
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.Acceuil-three .subscribe-content p {
+    margin: 10px 0 33px;
+}
+
+.Acceuil-three .subscribe-box input {
+    width: 44%;
+}
+
+.Acceuil-three .subscribe-box button {
+    float: inherit;
+}
+
+.Acceuil-three .footer-widget-content {
+    margin-bottom: 48px;
+}
+
+.Acceuil-three .footer-bottom-area {
+    margin-top: 58px;
+}
+
+/*===============Acceuil Four Responsive Css============*/
+
+.Acceuil-four.hero-area {
+    background-position: center right;
+     height: 769px;
+}
+
+.Acceuil-four .counter-thumb img {
+    margin-bottom: 24px;
+}
+
+.Acceuil-four .row.add-bg {
+    padding: 0 0 38px;
+}
+
+.Acceuil-four.about-area {
+    padding: 310px 0 108px;
+}
+
+.Acceuil-four .about-thumb {
+    left: 0;
+}
+
+.Acceuil-four .about-single-text-box {
+    right: -1px;
+    bottom: -17px;
+}
+
+.Acceuil-four .single-services-box {
+    padding: 35px 24px 45px;
+    margin-bottom: 20px;
+}
+
+.Acceuil-four .services-content h4 {
+    font-size: 22px;
+}
+
+.skill-thumb img {
+    width: 100%;
+}
+
+.Acceuil-four .info-content h4 {
+    font-size: 22px;
+}
+
+.Acceuil-four .info-content span {
+    margin: 6px 0 0;
+}
+
+.Acceuil-four .info-shape {
+    top: 23px;
+}
+
+.Acceuil-four .call-do-action-content h4 {
+    font-size: 34px;
+}
+
+/*===============Acceuil Five Responsive Css============*/
+
+.Acceuil-five .hero-info {
+    display: none;
+}
+
+.Acceuil-five .hero-content p {
+    width: 70%;
+}
+
+.Acceuil-five.video-area {
+    width: 60%;
+    left: 0;
+}
+
+.hero-slide-five .owl-dots {
+    left: 49%;
+    width: 43%;
+}
+
+.slider-counter {
+    left: 83%;
+}
+.slider-counter:before{
+    display: none;
+}
+
+.Acceuil-five.animal-area {
+    padding: 187px 0 99px;
+}
+
+.Acceuil-five .single-animal-box {
+    margin-bottom: 24px;
+}
+
+.Acceuil-five .about-shape {
+    display: none;
+}
+
+.Acceuil-five .about-icon img {
+    width: 30%;
+}
+
+.Acceuil-five.about-area p.section-desc {
+    width: 88%;
+}
+
+.Acceuil-five p.about-desc {
+    width: 90%;
+}
+
+.Acceuil-five.gallery-area .style-four.echofy-button {
+    float: left;
+    margin-top: -16px;
+    margin-bottom: 58px;
+}
+
+.Acceuil-five .contact-info-title h4 {
+    font-size: 15px;
+}
+
+.Acceuil-five .contact-info-title h1 {
+    font-size: 18px;
+    margin-top: 13px;
+}
+
+.Acceuil-five.contact-info-area .contact-info-box {
+    padding-left: 0;
+    margin: 0;
+}
+
+.Acceuil-five.contact-info-area .echofy-button {
+    margin-top: 43px;
+}
+
+.Acceuil-five .nav-link {
+    padding: 17px 32px;
+}
+
+.Acceuil-five .event-titel h4 {
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.Acceuil-five .event-desc-box {
+    padding: 27px 51px 0 16px;
+}
+
+.Acceuil-five.donation-area .section-title.left h1 {
+    color: #fff;
+    font-size: 38px;
+}
+
+.Acceuil-five .donation-right {
+    padding: 119px 38px 137px;
+    margin-top: 30px;
+}
+
+.Acceuil-five.animal-video-area .section-title.left h1 {
+    line-height: 27px;
+    font-size: 24px;
+}
+
+.Acceuil-five.animal-video-area .echofy-button {
+    margin-top: -15px;
+}
+
+.Acceuil-five .blog-content {
+    padding: 27px 22px 41px;
+    width: 93%;
+}
+
+.Acceuil-five .blog-content a {
+    font-size: 20px;
+}
+
+.Acceuil-five .meta-blog span {
+    margin-right: 16px;
+}
+
+.Acceuil-five .footer-contact-info {
+    margin-top: 23px;
+}
+
+
+/*===============Acceuil Six Responsive Css============*/
+
+.hero-area.Acceuil-six {
+    height: 830px;
+    padding-top: 23px;
+}
+
+.hero-area.Acceuil-six .hero-content h1 {
+    font-size: 45px;
+    line-height: 56px;
+}
+
+.Acceuil-six .single-feature-box {
+    padding: 26px 21px 37px;
+    margin-bottom: 23px;
+}
+
+.Acceuil-six.about-area {
+    padding: 81px 0 123px;
+}
+
+.Acceuil-six.service-area .row.upper {
+     top: -321px;
+    margin-left: -2px;
+}
+
+.Acceuil-six.why-choose-area {
+    padding: 375px 0 84px;
+}
+
+.Acceuil-six .why-choose-thumb {
+    left: 0;
+    margin-bottom: 43px;
+}
+
+.Acceuil-six .why-choose-thumb img{
+    width: 100%;
+}
+
+.Acceuil-six.why-choose-area p.section-desc {
+    width: 75%;
+}
+
+.Acceuil-six .choose-us-content p {
+    width: 76%;
+}
+
+.Acceuil-six .single-pricing-box {
+    padding: 42px 20px 53px;
+    margin-bottom: 22px;
+}
+
+.Acceuil-six.Equipe-area {
+    padding: 122px 0 103px;
+}
+
+.Acceuil-six .single-Equipe-box {
+    margin-bottom: 24px;
+}
+
+.Acceuil-six.skill-area {
+    background-position: center left;
+}
+
+.Acceuil-six.skill-area p.section-desc {
+    width: 73%;
+}
+
+.Acceuil-six.blog-area {
+    padding: 111px 0 94px;
+}
+
+.Acceuil-six .single-blog-box {
+    margin-bottom: 50px;
+}
+
+.Acceuil-six .blog-content a {
+    font-size: 18px;
+}
+
+.Acceuil-six .contact-left {
+    text-align: left;
+    left: 0;
+}
+
+.Acceuil-six .contact-icon {
+    margin: 0;
+    text-align: center;
+    margin-bottom: 43px;
+}
+
+.Acceuil-six .contact-title h4 {
+    margin-bottom: 50px;
+    margin-top: 42px;
+}
+
+.Acceuil-six.contact-area:before {
+    background: transparent;
+}
+
+.Acceuil-six .contact-submit-button button {
+    background: #ffff;
+    color: #49AE44;
+    border: 2px solid #fff
+}
+
+.Acceuil-six .footer-bottom-content ul li {
+    margin: 0 5px;
+}
+
+
+/*===============Acceuil Seven Responsive Css============*/
+.hero-area.Acceuil-seven {
+    background-position: center left;
+}
+
+.Acceuil-seven .hero-content h1 {
+    font-size: 66px;
+    line-height: 66px;
+}
+
+.Acceuil-seven .hero-img {
+    bottom: 97px;
+    left: 42%;
+}
+
+.Acceuil-six.services-title-area p.section-desc {
+    margin: 2px 0 0;
+}
+
+.services-title-area.Acceuil-seven .row.upper {
+    margin-left: 0;
+}
+
+.Acceuil-seven .project-content-two {
+    padding: 25px 16px 37px;
+    width: 90%;
+}
+
+.Acceuil-seven .choose-shape {
+    top: 12px;
+    left: 41%;
+}
+
+.Acceuil-seven .counter-content-two h4 {
+    font-size: 100px;
+    bottom: -8px;
+    left: -42px;
+}
+
+.counter-area.Acceuil-seven {
+    padding-left: 100px;
+}
+
+.Acceuil-seven .vedio-content a {
+    top: 40px;
+}
+
+.Acceuil-seven .contact-left iframe {
+    width: 100%;
+    height: 360px;
+}
+
+.Acceuil-seven .contact-submit-button button {
+    background: #49AE44;
+    color: #fff;
+    margin-bottom: 128px;
+}
+
+
+
+
+/*===============All Inner Menu Responsive Css============*/
+.service-details-icon-box {
+    padding: 32px 17px 18px;
+    gap: 19px;
+}
+
+.services-details-area .single-benifits-box {
+    margin-bottom: 40px;
+}
+
+.project-details-right {
+    margin-bottom: 37px;
+}
+
+.donation-details-area button.submit-donation {
+    margin-bottom: 37px;
+}
+
+.faqs-area.inner .faqs-thumb {
+    margin-bottom: 32px;
+}
+
+a.blog-list-title {
+    font-size: 25px;
+}
+
+h4.blog-details-title {
+    font-size: 26px;
+}
+
+.blog-details-author-talk {
+    padding: 41px 36px 40px;
+}
+
+.blog-post-box {
+    padding: 84px 21px 31px 22px;
+    gap: 15px;
+}
+
+.blog-post-box.style-two {
+    padding: 85px 24px 31px 21px;
+}
+
+.blog-post-content a {
+    font-size: 15px;
+    line-height: 20px;
+}
+
+.row.contact-info-bg {
+    padding: 50px 30px 14px;
+}
+
+.contact-info-box {
+    margin-bottom: 35px;
+}
+
+
+
+
+
+}
+
+
+
+/* Normal desktop :600px. */
+@media (min-width: 600px) and (max-width: 767px) {
+
+
+/*Acceuil 1 Resopnsive*/
+.top-header-area {
+    display: none;
+}
+
+.header-area {
+    display: none;
+}
+
+.sticky {
+    position: absolute !important;
+}
+
+.hero-area {
+    height: 750px;
+    padding-top: 57px;
+}
+
+.hero-content h1 {
+    font-size: 48px;
+    line-height: 50px;
+}
+
+.hero-social-icon {
+    display: none;
+}
+
+.hero-content p {
+    width: 70%;
+}
+
+.hero-slides .owl-dots {
+    right: 27px;
+}
+
+.about-thumb {
+    left: 0;
+    padding-bottom: 36px;
+}
+
+.about-thumb img {
+    width: 100%;
+}
+
+img.about-thumb-shape {
+    bottom: -8px;
+    width: 58%;
+}
+
+.section-title.left h4 {
+    margin-bottom: 17px;
+}
+
+.section-title.left h1 {
+    font-size: 30px;
+    line-height: 30px;
+}
+
+.about-shape-2 {
+    left: 248px;
+}
+
+.about-box-content p {
+    width: 74%;
+}
+
+.service-area {
+    padding: 113px 0 86px;
+}
+
+.single-service-box {
+    padding: 37px;
+}
+
+.service-box-shape {
+    right: 30px;
+    top: 29px;
+}
+
+.service-area .owl-next {
+    right: -33px;
+    top: -632px;
+}
+
+.service-area .owl-prev {
+    right: 30px;
+    top: -633px;
+}
+
+.skill-area {
+    padding: 112px 0 115px;
+}
+
+p.section-desc {
+    width: 96%;
+}
+
+.skills-item {
+    width: 49%;
+}
+
+.skills-item-title h4 {
+    font-size: 18px;
+}
+
+.skills-item-content {
+    gap: 12px;
+    padding: 18px 20px 18px 18px;
+}
+
+.skills-thumb {
+    left: 0;
+}
+
+.skills-thumb img {
+    width: 100%;
+    padding-top: 38px;
+}
+
+.skills-shape {
+    top: -2px;
+    left: 0;
+}
+
+.counter-area {
+    padding: 80px 0 134px;
+    background-position: center center;
+}
+
+.single-counter-box {
+    margin-bottom: 37px;
+}
+
+#poress-row {
+    padding: 18px 7px 36px;
+}
+
+.porcess-thumb {
+    position: relative;
+    left: 0;
+    padding-bottom: 28px;
+}
+
+.porcess-thumb img {
+    width: 100%;
+}
+
+.project-area {
+    padding-left: 20px;
+}
+
+.project-area .owl-nav {
+    position: relative;
+    left: 265px;
+    top: -159px;
+}
+
+.project-content a {
+    font-size: 24px;
+}
+
+.process-area-two .section-title.center {
+    margin-bottom: 37px;
+}
+
+.process-area-two .section-title.center h4 {
+    margin-bottom: 13px;
+}
+
+.process-area-two .section-title.center h1 {
+    font-size: 35px;
+}
+
+.single-process-box-two {
+    padding: 0 0 0;
+}
+
+.single-process-box-two::before {
+    display: none;
+}
+
+.single-process-box-two.style-three::before {
+    display: none;
+}
+
+.section-title.center h4 {
+    margin-bottom: 17px;
+}
+
+.section-title.center h1 {
+    font-size: 34px;
+    line-height: 35px;
+}
+
+.testimonial-area {
+    background-position: center;
+}
+
+.testi-shape-tow {
+    display: none;
+}
+
+.testi-shape-four {
+    display: none;
+}
+
+.testi-shape {
+    left: -6%;
+}
+
+#brand-bg {
+    padding: 64px 0 61px;
+}
+
+.brand-content h4 {
+    margin-bottom: 39px;
+}
+
+.single-shape {
+    display: none;
+}
+
+.Equipe-area {
+    background-position: center;
+}
+
+.blog-area .echofy-button {
+    margin-top: 0;
+    float: left;
+    margin-bottom: 60px;
+}
+
+.blog-content {
+    padding: 27px 29px 28px;
+}
+
+.blog-content a {
+    font-size: 20px;
+    line-height: 25px;
+}
+
+.footer-social-address {
+    padding: 49px 33px 55px;
+}
+
+.footer-social-icon {
+    text-align: left;
+    padding-top: 25px;
+}
+
+.footer-widget-content {
+    margin-bottom: 25px;
+}
+
+.footer-bottom-area {
+    padding: 74px 0 33px;
+}
+
+/*===============Acceuil two Responsive Css============*/
+
+.hero-area.Acceuil-two {
+    height: 650px;
+    padding-top: 58px;
+}
+
+.Acceuil-two .hero-thumb {
+    display: none;
+}
+
+.Acceuil-two .hero-content h1 {
+    font-size: 48px;
+    line-height: 51px;
+}
+
+.Acceuil-two .hero-content p {
+    width: 94%;
+}
+
+.Acceuil-two .hero-shape {
+    display: none;
+}
+
+.Acceuil-two .about-thumb {
+    left: 0;
+}
+
+.Acceuil-two .about-video {
+    right: 46px;
+}
+
+.Acceuil-two .about-single-box {
+    gap: 30px;
+}
+
+.Acceuil-two .about-author-box {
+    gap: 15px;
+}
+
+.Acceuil-two .about-author-content h4 {
+    font-size: 16px;
+}
+
+.Acceuil-two .about-author-content p {
+    margin-top: 3px;
+}
+
+.Acceuil-two .row.service-up {
+    margin-top: -440px;
+}
+
+.Acceuil-two .service-content {
+    padding: 64px 19px 23px;
+}
+
+.Acceuil-two .services-shape-one {
+    top: 26%;
+    left: -1%;
+}
+
+.Acceuil-two .services-shape-two {
+    top: 26%;
+    right: 0%;
+}
+
+.Acceuil-two .row.fade-de {
+    padding: 85px 15px 55px;
+}
+
+.Acceuil-two.counter-area .section-title.left h1 {
+    font-size: 34px;
+    line-height: 34px;
+}
+
+.Acceuil-two .single-counter-box {
+    gap: 12px;
+}
+
+.counter-content p {
+    font-size: 17px;
+    margin: -1px 0 0;
+}
+
+.Acceuil-two .project-content {
+    width: 60%;
+}
+
+.faq-singular .faq-question {
+    font-size: 17px;
+}
+
+.faqs-area p.section-desc {
+    width: 85%;
+}
+
+.faqs-area .echofy-button {
+    margin-bottom: 38px;
+}
+
+.donation-title-area {
+    padding: 109px 0 348px;
+}
+
+.donation-area .row.donate {
+    margin-top: -340px;
+}
+
+.donation-content {
+    padding: 26px 24px 23px;
+}
+
+.donation-content a {
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.donation-shape-one {
+    top: 26%;
+    left: -1%;
+}
+
+.donation-shape-two {
+    top: 29%;
+    right: 1%;
+}
+
+.Acceuil-two.testimonial-area {
+    background-position: center right;
+}
+
+.Acceuil-two.testimonial-area .testi-shape {
+    top: -109px;
+    left: -23%;
+}
+
+.text-block {
+    font-size: 8vw;
+}
+
+.blog-content a {
+    font-size: 20px;
+    line-height: 28px;
+}
+
+.Acceuil-two.footer-area .echofy-button {
+    margin-top: 30px;
+    text-align: left;
+}
+
+.footer-social-address-content h4 {
+    font-size: 31px;
+}
+
+.Acceuil-two p.footer-desc {
+    width: 95%;
+}
+
+.Acceuil-two .footer-widget-blog-content a {
+    font-size: 15px;
+    line-height: 24px;
+}
+
+/*===============Acceuil Three Responsive Css============*/
+
+.Acceuil-three.text-area {
+    padding: 179px 0 111px;
+}
+
+.Acceuil-three .text-area-content h1 {
+    font-size: 28px;
+}
+
+.Acceuil-three .text-area-content p {
+    width: 90%;
+}
+
+.Acceuil-three.hero-area {
+    height: 550px;
+    padding-top: 15px;
+}
+
+.Acceuil-three .hero-content h2 {
+    font-size: 32px;
+    letter-spacing: 10px;
+}
+
+.Acceuil-three .about-thumb {
+    left: 0;
+}
+
+.Acceuil-three .about-desc p {
+    width: 97%;
+}
+
+.Acceuil-three .nav-link {
+    padding: 12px 24px;
+    margin-right: 11px;
+}
+
+.Acceuil-three .single-about-item {
+    gap: 7px;
+}
+
+.Acceuil-three.about-area .style-two.echofy-button a {
+    font-size: 15px;
+    padding: 12px 30px;
+}
+
+
+.Acceuil-three .single-service-box {
+    margin-bottom: 20px;
+}
+
+.Acceuil-three.counter-area p.section-desc {
+    width: 76%;
+}
+
+.Acceuil-three .single-counter-box {
+    margin-top: 22px;
+}
+
+.Acceuil-three.project-area .section-title.left {
+    margin-bottom: 34px;
+}
+
+.Acceuil-three.project-area .section-title.left h1 {
+    font-size: 32px;
+    line-height: 40px;
+}
+
+.Acceuil-three.project-area .style-two.echofy-button {
+    float: left;
+    margin-top: 0;
+    margin-bottom: 45px;
+}
+
+.Acceuil-three.project-area .container-fluid {
+    margin: 0 0 0 25px;
+}
+
+.Acceuil-three.skill-area {
+    background-position: center right;
+}
+
+.Acceuil-three .vedio-content {
+    display: none;
+}
+
+.Acceuil-three .faqs-thumb {
+    margin-top: 17px;
+    left: 0;
+}
+
+.faqs-thumb img {
+    width: 100%;
+}
+
+.Acceuil-three .blog-content {
+    padding: 37px 36px 39px;
+}
+
+.Acceuil-three .meta-blog span {
+    margin-right: 12px;
+}
+
+.Acceuil-three .blog-title a {
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.Acceuil-three .subscribe-content p {
+    margin: 10px 0 33px;
+}
+
+.Acceuil-three .blog-content {
+    padding: 37px 36px 39px;
+}
+
+.Acceuil-three .subscribe-box button {
+    float: inherit;
+}
+
+.Acceuil-three .footer-widget-content {
+    margin-bottom: 48px;
+}
+
+.Acceuil-three .footer-bottom-area {
+    margin-top: 58px;
+}
+
+/*===============Acceuil Four Responsive Css============*/
+
+.Acceuil-four.hero-area {
+    background-position: center right;
+     height: 769px;
+}
+
+.Acceuil-four .hero-content h1 {
+    font-size: 60px;
+    line-height: 62px;
+}
+
+.Acceuil-four .counter-thumb img {
+    margin-bottom: 24px;
+}
+
+.Acceuil-four .single-conter-box {
+    margin-top: 36px;
+}
+
+.Acceuil-four .row.add-bg {
+    padding: 0 0 38px;
+}
+
+.Acceuil-four.about-area {
+    padding: 310px 0 114px;
+}
+
+.Acceuil-four .about-thumb {
+    left: 0;
+}
+
+.Acceuil-four .about-single-text-box {
+    right: -1px;
+    bottom: -17px;
+    width: 50%;
+}
+
+.Acceuil-four .single-services-box {
+    padding: 35px 24px 45px;
+    margin-bottom: 20px;
+}
+
+.Acceuil-four .services-content h4 {
+    font-size: 22px;
+}
+
+.skill-thumb img {
+    width: 100%;
+}
+
+.Acceuil-four p.testi-text {
+    width: 85%;
+}
+
+.Acceuil-four .info-thumb img {
+   left: 0;
+}
+
+.Acceuil-four .info-content {
+    margin-left: 0;
+    padding: 22px 25px 30px;
+}
+
+.Acceuil-four .info-content h4 {
+    font-size: 22px;
+}
+
+.Acceuil-four .info-content span {
+    margin: 6px 0 0;
+}
+
+.Acceuil-four .info-shape {
+    top: 71px;
+    right: 42%;
+}
+.Acceuil-four .call-do-action-content h4 {
+    font-size: 34px;
+}
+
+.Acceuil-four.call-do-action-area .style-three.echofy-button {
+    float: left;
+    margin-top: 35px;
+}
+
+.col-lg-9.col-md-9.menu {
+    position: relative;
+    left: -99px;
+    padding-top: 32px;
+}
+
+
+
+/*===============Acceuil Five Responsive Css============*/
+
+.Acceuil-five .hero-info {
+    display: none;
+}
+
+.Acceuil-five .hero-content h1 {
+    font-size: 45px;
+    line-height: 46px;
+}
+
+.Acceuil-five .hero-content p {
+    width: 88%;
+}
+
+.Acceuil-five.video-area {
+    width: 60%;
+    left: 0;
+}
+
+.hero-slide-five .owl-dots {
+    left: 52%;
+    width: 48%;
+    padding: 49px 48px;
+}
+
+.slider-counter {
+    left: 83%;
+}
+.slider-counter:before{
+    display: none;
+}
+
+.Acceuil-five.animal-area {
+    padding: 187px 0 99px;
+}
+
+.Acceuil-five .single-animal-box {
+    margin-bottom: 24px;
+}
+
+.Acceuil-five .single-animal-box.active .animal-link-icon a {
+    top: 42%;
+    left: 107px;
+}
+
+.Acceuil-five .section-title.left h1 {
+    font-size: 34px;
+    line-height: 34px;
+}
+
+.Acceuil-five .about-shape {
+    display: none;
+}
+
+.Acceuil-five .about-icon img {
+    width: 30%;
+}
+
+.Acceuil-five.about-area p.section-desc {
+    width: 88%;
+}
+
+.Acceuil-five .about-item-text h4 {
+    font-size: 14px;
+}
+
+.Acceuil-five p.about-desc {
+    width: 90%;
+}
+
+.Acceuil-five.gallery-area .style-four.echofy-button {
+    float: left;
+    margin-top: -16px;
+    margin-bottom: 58px;
+}
+
+.Acceuil-five .contact-info-title h4 {
+    font-size: 15px;
+}
+
+.Acceuil-five .contact-info-title h1 {
+    font-size: 18px;
+    margin-top: 13px;
+}
+
+.Acceuil-five.contact-info-area .contact-info-box {
+    padding-left: 0;
+    margin: 0;
+    margin-top: 32px;
+}
+
+.Acceuil-five.contact-info-area .echofy-button {
+    margin-top: 43px;
+}
+
+.Acceuil-five .nav-link {
+    padding: 17px 26px;
+}
+
+.Acceuil-five .event-titel h4 {
+    font-size: 17px;
+    line-height: 27px;
+}
+
+.Acceuil-five .single-event:hover {
+    height: 476px;
+}
+
+.Acceuil-five .event-desc-box {
+    padding: 27px 51px 0 16px;
+}
+
+.Acceuil-five.donation-area .section-title.left h1 {
+    color: #fff;
+    font-size: 30px;
+}
+
+.Acceuil-five .single-donation-box {
+    padding: 100px 36px 112px;
+}
+
+.Acceuil-five .donation-list ul li {
+    display: inline-block;
+    margin-right: 0px;
+}
+
+.Acceuil-five .donation-right {
+    padding: 119px 38px 137px;
+    margin-top: 30px;
+}
+
+.Acceuil-five.animal-video-area .section-title.left h1 {
+    line-height: 27px;
+    font-size: 24px;
+}
+
+.Acceuil-five .animal-video-button {
+    float: left;
+    margin-top: 45px;
+}
+
+.Acceuil-five.animal-video-area .echofy-button {
+    margin-top: -15px;
+}
+
+.Acceuil-five .blog-content {
+    padding: 27px 22px 41px;
+    width: 93%;
+}
+
+.Acceuil-five .blog-content a {
+    font-size: 20px;
+}
+
+.Acceuil-five .meta-blog span {
+    margin-right: 16px;
+}
+
+.Acceuil-five .footer-contact-info {
+    margin-top: 23px;
+}
+
+.Acceuil-five .footer-widget-gallery a img {
+    margin: 5px -1px;
+}
+
+.footer-bottom-content {
+    float: left;
+    margin-top: 8px;
+}
+
+.Acceuil-five .footer-bottom-content ul li {
+    margin: 0 5px;
+}
+
+/*===============Acceuil Six Responsive Css============*/
+
+.hero-area.Acceuil-six {
+    height: 700px;
+    padding-top: 23px;
+}
+
+.hero-area.Acceuil-six .hero-content h1 {
+    font-size: 34px;
+    line-height: 40px;
+}
+
+.Acceuil-six .single-feature-box {
+    padding: 26px 21px 37px;
+    margin-bottom: 23px;
+}
+
+.Acceuil-six .section-title.left h1 {
+    font-size: 36px;
+    line-height: 31px;
+}
+
+.Acceuil-six .section-title.center h1 {
+    font-size: 38px;
+    line-height: 35px;
+}
+
+.Acceuil-six.about-area {
+    padding: 81px 0 123px;
+}
+
+.Acceuil-six .about-item-box {
+    display: block;
+}
+
+.Acceuil-six.service-area .row.upper {
+     top: -321px;
+    margin-left: -2px;
+}
+
+.Acceuil-six.why-choose-area {
+    padding: 375px 0 84px;
+}
+
+.Acceuil-six .why-choose-thumb {
+    left: 0;
+    margin-bottom: 43px;
+}
+
+.Acceuil-six .why-choose-thumb img{
+    width: 100%;
+}
+
+.Acceuil-six.why-choose-area p.section-desc {
+    width: 75%;
+}
+
+.Acceuil-six .choose-us-content p {
+    width: 76%;
+}
+
+.Acceuil-six .single-pricing-box {
+    padding: 42px 40px 53px;
+    margin-bottom: 22px;
+}
+
+.Acceuil-six.pricing-area .single-pricing-box .echofy-button {
+    text-align: left;
+}
+
+.Acceuil-six.Equipe-area {
+    padding: 122px 0 103px;
+}
+
+.Acceuil-six .single-Equipe-box {
+    margin-bottom: 24px;
+}
+
+.Acceuil-six.skill-area {
+    background-position: center left;
+}
+
+.Acceuil-six.skill-area p.section-desc {
+    width: 73%;
+}
+
+.Acceuil-six.blog-area {
+    padding: 111px 0 94px;
+}
+
+.Acceuil-six .single-blog-box {
+    margin-bottom: 50px;
+}
+
+.Acceuil-six .blog-content a {
+    font-size: 18px;
+}
+
+.Acceuil-six .contact-content h4 {
+    font-size: 36px;
+    line-height: 38px;
+}
+
+.Acceuil-six .contact-left {
+    text-align: left;
+    left: 0;
+}
+
+.Acceuil-six .contact-icon {
+    margin: 0;
+    text-align: center;
+    margin-bottom: 43px;
+}
+
+.Acceuil-six .contact-title h4 {
+    margin-bottom: 50px;
+    margin-top: 42px;
+}
+
+.Acceuil-six.contact-area:before {
+    background: transparent;
+}
+
+.Acceuil-six .contact-submit-button button {
+    background: #ffff;
+    color: #49AE44;
+    border: 2px solid #fff
+}
+
+.Acceuil-six .footer-social-icon {
+    margin-bottom: 34px;
+}
+
+.Acceuil-six .footer-bottom-content ul li {
+    margin: 0 5px;
+}
+
+/*===============Acceuil Seven Responsive Css============*/
+.hero-area.Acceuil-seven {
+    background-position: center left;
+     height: 733px;
+    padding-top: 82px;
+}
+
+.Acceuil-seven .hero-content h1 {
+    font-size: 56px;
+    line-height: 56px;
+}
+
+.Acceuil-seven .hero-img {
+    bottom: 124px;
+    left: 52%;
+}
+
+.Acceuil-six.services-title-area p.section-desc {
+    margin: 2px 0 0;
+}
+
+.services-title-area.Acceuil-seven .row.upper {
+    margin-left: 0;
+}
+
+.Acceuil-seven .project-content-two {
+    padding: 25px 16px 37px;
+    width: 90%;
+}
+
+.Acceuil-seven .choose-shape {
+    top: 12px;
+    left: 41%;
+}
+
+.Acceuil-seven .counter-content-two h4 {
+    font-size: 100px;
+    bottom: -8px;
+    left: -42px;
+}
+
+.counter-area.Acceuil-seven {
+    padding-left: 100px;
+}
+
+.Acceuil-seven .testi-author-rating {
+    right: 17px;
+}
+
+.Acceuil-seven.faqs-area .section-title.left h1 {
+    font-size: 36px;
+    line-height: 35px;
+}
+
+.Acceuil-seven .vedio-content a {
+    top: 40px;
+}
+
+.Acceuil-seven .contact-left iframe {
+    width: 100%;
+    height: 360px;
+}
+
+.Acceuil-seven .contact-submit-button button {
+    background: #49AE44;
+    color: #fff;
+    margin-bottom: 128px;
+}
+
+
+
+
+
+
+/*===============All Inner Menu Responsive Css============*/
+.breadcumb-area {
+    padding: 211px 0 143px;
+}
+
+.breadcumb-title h4 {
+    font-size: 38px;
+}
+
+h4.services-details-title {
+    font-size: 28px;
+}
+
+.service-details-icon-box {
+    padding: 32px 17px 18px;
+    gap: 19px;
+}
+
+.services-details-area .single-benifits-box {
+    margin-bottom: 40px;
+}
+
+.project-details-content h4 {
+    font-size: 32px;
+}
+
+.project-details-right {
+    margin-bottom: 37px;
+}
+
+h4.dontaion-detais-title {
+    font-size: 27px;
+    margin: 40px 0 24px;
+}
+
+.donation-details-area button.submit-donation {
+    margin-bottom: 44px;
+}
+
+.faqs-area.inner .faqs-thumb {
+    margin-bottom: 32px;
+}
+
+.blog-list-content {
+    padding: 27px 24px 20px;
+}
+
+.blog-list-area .meta-blog span {
+    margin-right: 20px;
+}
+
+a.blog-list-title {
+    font-size: 18px;
+}
+
+.blog-details-content {
+    padding: 27px 22px 20px;
+}
+
+h4.blog-details-title {
+    font-size: 20px;
+}
+
+.blog-details-author-talk {
+    padding: 41px 36px 40px;
+}
+
+.blog-details-author-title p {
+    font-size: 17px;
+    line-height: 26px;
+}
+
+.blog-post-box {
+    padding: 84px 21px 31px 22px;
+    gap: 15px;
+}
+
+.blog-post-box.style-two {
+    padding: 85px 24px 31px 21px;
+}
+
+.blog-post-content a {
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.blog-details-thumb.two {
+    margin-bottom: 20px;
+}
+
+.blog-details-social-icon {
+    text-align: left;
+    padding-top: 25px;
+}
+
+.blog-details-comment-thumb {
+    float: left;
+    margin-right: 10px;
+}
+
+.blog-details-comment {
+    padding: 29px 6px 25px;
+}
+
+.blog-details-comment-content h2 {
+    margin-right: 8px;
+}
+
+.blog-details-comment.style-two {
+    margin-left: 0px;
+}
+
+.blog-details-comment-reply {
+    right: -10px;
+}
+
+.row.contact-info-bg {
+    padding: 50px 30px 14px;
+}
+
+.contact-info-box {
+    margin-bottom: 35px;
+}
+
+
+
+
+}
+
+/* Normal desktop :480px. */
+@media (min-width: 480px) and (max-width: 599px) {
+
+/*Acceuil 1 Resopnsive*/
+.top-header-area {
+   display: none;
+}
+
+.header-area {
+    display: none;
+}
+
+.sticky {
+    position: absolute !important;
+}
+
+.hero-area {
+    height: 662px;
+    padding-top: 57px;
+}
+
+.hero-content h1 {
+    font-size: 48px;
+    line-height: 50px;
+}
+
+.hero-social-icon {
+    display: none;
+}
+
+.hero-content p {
+    width: 73%;
+}
+
+.hero-slides .owl-dots {
+    right: 27px;
+}
+
+.about-thumb {
+    left: 0;
+    padding-bottom: 36px;
+}
+
+.about-thumb img {
+    width: 100%;
+}
+
+img.about-thumb-shape {
+    bottom: -8px;
+}
+
+.section-title.left h4 {
+    margin-bottom: 9px;
+}
+
+.section-title.left h1 {
+    font-size: 30px;
+    line-height: 30px;
+}
+
+.about-shape-2 {
+    left: 248px;
+}
+
+.service-area {
+    padding: 113px 0 114px;
+}
+
+.service-area .owl-next {
+    right: 0px;
+    top: -623px;
+}
+
+.service-area .owl-prev {
+    right: 64px;
+    top: -623px;
+}
+
+.skill-area {
+    padding: 112px 0 115px;
+}
+
+p.section-desc {
+    width: 96%;
+}
+
+.skills-item-title h4 {
+    font-size: 18px;
+}
+
+.skills-item-content {
+    gap: 12px;
+    padding: 18px 50px 18px 26px;
+}
+
+.skills-thumb {
+    left: 0;
+}
+
+.skills-thumb img {
+    width: 100%;
+    padding-top: 38px;
+}
+
+.skills-shape {
+    top: -2px;
+    left: 0;
+}
+
+.counter-area {
+    padding: 80px 0 134px;
+    background-position: center center;
+}
+
+.single-counter-box {
+    margin-bottom: 37px;
+}
+
+#poress-row {
+    padding: 18px 7px 36px;
+}
+
+.porcess-thumb {
+    position: relative;
+    left: 0;
+    padding-bottom: 28px;
+}
+
+.porcess-thumb img {
+    width: 100%;
+}
+
+.project-area {
+    padding-left: 20px;
+}
+
+.project-area .owl-nav {
+    display: none;
+}
+
+.project-content a {
+    font-size: 24px;
+}
+
+a.project-button {
+    margin-top: 9px;
+}
+
+.process-area-two .section-title.center {
+    margin-bottom: 37px;
+}
+
+.process-area-two .section-title.center h4 {
+    margin-bottom: 13px;
+}
+
+.process-area-two .section-title.center h1 {
+    font-size: 35px;
+}
+
+.single-process-box-two {
+    padding: 0 65px 0;
+}
+
+.single-process-box-two::before {
+    display: none;
+}
+
+.single-process-box-two.style-three::before {
+    display: none;
+}
+
+.section-title.center h4 {
+    margin-bottom: 17px;
+}
+
+.section-title.center h1 {
+    font-size: 30px;
+    line-height: 32px;
+}
+
+.testimonial-area {
+    background-position: center;
+}
+
+.testi-shape-tow {
+    display: none;
+}
+
+.testi-shape-four {
+    display: none;
+}
+
+.single-testimonial-box {
+    padding: 34px 25px 32px;
+}
+
+.testi-shape {
+    left: -35%;
+}
+
+#brand-bg {
+    padding: 64px 0 61px;
+}
+
+.brand-content h4 {
+    margin-bottom: 22px;
+    font-size: 20px;
+}
+
+.single-shape {
+    display: none;
+}
+
+.Equipe-area {
+    background-position: center;
+}
+
+.blog-area .echofy-button {
+    margin-top: 0;
+    float: left;
+    margin-bottom: 60px;
+}
+
+.blog-content {
+    padding: 27px 29px 28px;
+}
+
+.blog-content a {
+    font-size: 19px;
+    line-height: 26px;
+}
+
+.footer-social-address {
+    padding: 49px 33px 55px;
+}
+
+.footer-social-address-content h4 {
+    font-size: 35px;
+}
+
+.footer-social-icon {
+    text-align: left;
+    padding-top: 25px;
+}
+
+p.footer-desc {
+    width: 67%;
+}
+
+.footer-widget-content {
+    margin-bottom: 25px;
+}
+
+.footer-bottom-area {
+    padding: 74px 0 33px;
+}
+
+/*===============Acceuil two Responsive Css============*/
+
+.hero-area.Acceuil-two {
+    height: 650px;
+    padding-top: 58px;
+}
+
+.Acceuil-two .hero-thumb {
+    display: none;
+}
+
+.Acceuil-two .hero-content h1 {
+    font-size: 48px;
+    line-height: 51px;
+}
+
+.Acceuil-two .hero-content p {
+    width: 94%;
+}
+
+.Acceuil-two .hero-shape {
+    display: none;
+}
+
+.Acceuil-two .about-thumb {
+    left: 0;
+}
+
+.Acceuil-two .about-video {
+    right: 14px;
+}
+
+.Acceuil-two .about-single-box {
+    gap: 30px;
+}
+
+.Acceuil-two .about-author-box {
+    gap: 15px;
+}
+
+.Acceuil-two .about-author-content h4 {
+    font-size: 16px;
+}
+
+.Acceuil-two .about-author-content p {
+    margin-top: 3px;
+}
+
+.Acceuil-two .row.service-up {
+    margin-top: -409px;
+}
+
+.Acceuil-two .service-content {
+    padding: 64px 19px 23px;
+}
+
+.services-shape-one {
+   display: none;
+}
+
+.services-shape-two {
+  display: none;
+}
+
+.Acceuil-two .row.fade-de {
+    padding: 85px 15px 55px;
+}
+
+.Acceuil-two.counter-area .section-title.left h1 {
+    font-size: 34px;
+    line-height: 34px;
+}
+
+.Acceuil-two .single-counter-box {
+    gap: 12px;
+}
+
+.counter-content p {
+    font-size: 18px;
+    margin: -1px 0 0;
+}
+
+.Acceuil-two .project-content {
+    width: 76%;
+}
+
+.faq-singular .faq-question {
+    font-size: 14px;
+}
+
+.faqs-area p.section-desc {
+    width: 94%;
+}
+
+.faqs-area .echofy-button {
+    margin-bottom: 38px;
+}
+
+.donation-title-area {
+    padding: 109px 0 305px;
+}
+
+.donation-area .row.donate {
+    margin-top: -298px;
+}
+
+.donation-content {
+    padding: 26px 24px 23px;
+}
+
+.donation-content a {
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.donation-shape-one {
+   display: none;
+}
+
+.donation-shape-two {
+  display: none;
+}
+
+.Acceuil-two.testimonial-area {
+    background-position: center right;
+}
+
+.Acceuil-two.testimonial-area .testi-shape {
+    top: -115px;
+    left: -77px;
+}
+
+.text-block {
+    font-size: 8vw;
+}
+
+.blog-content a {
+    font-size: 18px;
+    line-height: 28px;
+}
+
+.footer-social-address-content h4 {
+    font-size: 27px;
+}
+
+.Acceuil-two.footer-area .echofy-button {
+    margin-top: 33px;
+    text-align: left;
+}
+
+.Acceuil-two p.footer-desc {
+    width: 95%;
+}
+
+.Acceuil-two .footer-widget-blog-content a {
+    font-size: 15px;
+    line-height: 24px;
+}
+
+/*===============Acceuil Three Responsive Css============*/
+
+.Acceuil-three.text-area {
+    padding: 179px 0 111px;
+}
+
+.Acceuil-three .text-area-content h1 {
+    font-size: 23px;
+}
+
+.Acceuil-three .text-area-content p {
+    width: 90%;
+}
+
+.Acceuil-three.hero-area {
+    height: 550px;
+    padding-top: 15px;
+}
+
+.Acceuil-three .hero-content h2 {
+    font-size: 32px;
+    letter-spacing: 10px;
+}
+
+.Acceuil-three .about-thumb {
+    left: 0;
+}
+
+.Acceuil-three .about-desc p {
+    width: 97%;
+}
+
+.Acceuil-three .nav-link {
+    padding: 12px 15px;
+    margin-right: 8px;
+}
+
+.Acceuil-three .single-about-item {
+    display: block;
+}
+
+.about-img {
+    margin-top: 26px;
+}
+
+.Acceuil-three.about-area .style-two.echofy-button a {
+    font-size: 15px;
+    padding: 12px 30px;
+}
+
+
+.Acceuil-three .single-service-box {
+    margin-bottom: 20px;
+}
+
+.Acceuil-three.counter-area p.section-desc {
+    width: 76%;
+}
+
+.Acceuil-three .single-counter-box {
+    margin-top: 22px;
+}
+
+.Acceuil-three.project-area .section-title.left {
+    margin-bottom: 34px;
+}
+
+.Acceuil-three.project-area .section-title.left h1 {
+    font-size: 32px;
+    line-height: 40px;
+}
+
+.Acceuil-three.project-area .style-two.echofy-button {
+    float: left;
+    margin-top: 0;
+    margin-bottom: 45px;
+}
+
+.Acceuil-three.project-area .container-fluid {
+    margin: 0 0 0 10px;
+}
+
+.Acceuil-three.skill-area {
+    background-position: center right;
+}
+
+.Acceuil-three .vedio-content {
+    display: none;
+}
+
+.Acceuil-three .faqs-thumb {
+    margin-top: 17px;
+    left: 0;
+}
+
+.faqs-thumb img {
+    width: 100%;
+}
+
+.Acceuil-three .blog-content {
+    padding: 37px 36px 39px;
+}
+
+.Acceuil-three .meta-blog span {
+    margin-right: 12px;
+}
+
+.Acceuil-three .blog-title a {
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.Acceuil-three .subscribe-content p {
+    margin: 10px 0 33px;
+}
+
+.Acceuil-three .blog-content {
+    padding: 37px 36px 39px;
+}
+
+.Acceuil-three .subscribe-box input {
+    width: 59%;
+}
+
+.Acceuil-three .subscribe-box button {
+    float: inherit;
+}
+
+.Acceuil-three .footer-widget-content {
+    margin-bottom: 48px;
+}
+
+.Acceuil-three .footer-bottom-area {
+    margin-top: 58px;
+}
+
+/*===============Acceuil Four Responsive Css============*/
+.Acceuil-four.hero-area {
+    background-position: center right;
+    height: 748px;
+}
+
+.Acceuil-four .hero-content h1 {
+    font-size: 56px;
+    line-height: 56px;
+}
+
+.Acceuil-four .single-conter-box {
+    margin-top: 36px;
+}
+
+.Acceuil-four .about-single-text-box {
+    right: -13px;
+    bottom: 16px;
+    width: 65%;
+}
+
+.Acceuil-four .about-item-box {
+    display: block;
+}
+
+.skill-thumb img {
+    width: 100%;
+}
+
+.Acceuil-four .testi-thumb {
+    left: 0;
+}
+
+.Acceuil-four p.testi-text {
+    width: 100%;
+}
+
+.Acceuil-four .info-content {
+    margin-left: 0;
+    padding: 32px 15px 28px;
+}
+
+.Acceuil-four .call-do-action-content h4 {
+    font-size: 36px;
+}
+
+.Acceuil-four .info-shape {
+    right: 41%;
+    top: 45px;
+}
+
+.Acceuil-four.call-do-action-area .style-three.echofy-button {
+    float: left;
+    margin-top: 39px;
+}
+
+.Acceuil-four .footer-widget-menu-list ul li {
+    display: inline-block;
+    float: left;
+    margin-left: 18px;
+    margin-top: 35px;
+}
+
+
+
+/*===============Acceuil Five Responsive Css============*/
+
+.Acceuil-five.hero-area {
+    padding-top: 79px;
+    padding-bottom: 154px;
+    height: 865px;
+}
+
+.Acceuil-five .hero-info {
+    display: none;
+}
+
+.Acceuil-five .hero-content h1 {
+    font-size: 45px;
+    line-height: 46px;
+}
+
+.Acceuil-five .hero-content p {
+    width: 88%;
+}
+
+.Acceuil-five.video-area {
+    width: 99%;
+    left: 0;
+    margin-top: -142px;
+}
+
+.hero-slide-five .owl-dots {
+   display: none;
+}
+
+.slider-counter {
+    display: none;
+}
+.slider-counter:before{
+    display: none;
+}
+
+.Acceuil-five.animal-area {
+    padding: 187px 0 99px;
+}
+
+.Acceuil-five .single-animal-box {
+    margin-bottom: 24px;
+}
+
+.Acceuil-five .single-animal-box.active .animal-link-icon a {
+    top: 43%;
+    left: 45%;
+}
+
+.Acceuil-five .single-about-box {
+    right: 0px;
+}
+
+.Acceuil-five .section-title.left h1 {
+    font-size: 26px;
+    line-height: 26px;
+}
+
+.Acceuil-five .about-shape {
+    display: none;
+}
+
+.Acceuil-five .about-icon img {
+    width: 30%;
+}
+
+.Acceuil-five.about-area p.section-desc {
+    width: 88%;
+}
+
+.Acceuil-five .about-item-text h4 {
+    font-size: 14px;
+}
+
+.Acceuil-five p.about-desc {
+    width: 90%;
+}
+
+.Acceuil-five.gallery-area .style-four.echofy-button {
+    float: left;
+    margin-top: -16px;
+    margin-bottom: 58px;
+}
+
+.Acceuil-five .contact-info-title h4 {
+    font-size: 15px;
+}
+
+.Acceuil-five .contact-info-title h1 {
+    font-size: 18px;
+    margin-top: 13px;
+}
+
+.Acceuil-five.contact-info-area .contact-info-box {
+    padding-left: 0;
+    margin: 0;
+    margin-top: 32px;
+}
+
+.Acceuil-five.contact-info-area .echofy-button {
+    margin-top: 43px;
+}
+
+.Acceuil-five .nav-link {
+    padding: 17px 48px;
+}
+
+.Acceuil-five .single-event-box {
+    display: block;
+    padding: 12px 17px;
+}
+
+.Acceuil-five .event-titel h4 {
+    font-size: 22px;
+    line-height: 33px;
+}
+
+.Acceuil-five .single-event:hover {
+    height: 714px;
+}
+
+.Acceuil-five .event-desc-box {
+    padding: 27px 51px 0 16px;
+}
+
+.Acceuil-five.donation-area .section-title.left h1 {
+    color: #fff;
+    font-size: 26px;
+}
+
+.Acceuil-five .donation-list ul li a {
+    padding: 7px 10px;
+}
+
+.Acceuil-five .single-donation-box {
+    padding: 100px 36px 112px;
+}
+
+.Acceuil-five .donation-list ul li {
+    display: inline-block;
+    margin-right: 0px;
+}
+
+.Acceuil-five .donation-right {
+    padding: 119px 38px 137px;
+    margin-top: 30px;
+}
+
+.Acceuil-five.animal-video-area .section-title.left h1 {
+    line-height: 27px;
+    font-size: 24px;
+}
+
+.Acceuil-five .animal-video-button {
+    float: left;
+    margin-top: 45px;
+}
+
+.Acceuil-five.animal-video-area .echofy-button {
+    margin-top: -15px;
+}
+
+.Acceuil-five .blog-content {
+    padding: 27px 22px 41px;
+    width: 93%;
+}
+
+.Acceuil-five .blog-content a {
+    font-size: 20px;
+}
+
+.Acceuil-five .meta-blog span {
+    margin-right: 16px;
+}
+
+.Acceuil-five .footer-contact-info {
+    margin-top: 23px;
+}
+
+.Acceuil-five .footer-widget-gallery a img {
+    margin: 5px -1px;
+}
+
+.footer-bottom-content {
+    float: left;
+    margin-top: 8px;
+}
+
+.Acceuil-five .footer-bottom-content ul li {
+    margin: 0 5px;
+}
+
+
+/*===============Acceuil Six Responsive Css============*/
+
+.hero-area.Acceuil-six {
+    height: 700px;
+    padding-top: 23px;
+}
+
+.Acceuil-six .hero-content h4 {
+    font-size: 12px;
+    margin-bottom: 20px;
+}
+
+.hero-area.Acceuil-six .hero-content h1 {
+    font-size: 28px;
+    line-height: 38px;
+}
+
+.Acceuil-six .single-feature-box {
+    padding: 26px 21px 37px;
+    margin-bottom: 23px;
+}
+
+.Acceuil-six .section-title.left h1 {
+    font-size: 36px;
+    line-height: 31px;
+}
+
+.Acceuil-six .section-title.center h1 {
+    font-size: 30px;
+    line-height: 33px;
+}
+
+.Acceuil-six.about-area {
+    padding: 81px 0 123px;
+}
+
+.Acceuil-six .about-item-box {
+    display: block;
+}
+
+.Acceuil-six.service-area .row.upper {
+     top: -321px;
+    margin-left: -2px;
+}
+
+.Acceuil-six.why-choose-area {
+    padding: 375px 0 84px;
+}
+
+.Acceuil-six .why-choose-thumb {
+    left: 0;
+    margin-bottom: 43px;
+}
+
+.Acceuil-six .why-choose-thumb img{
+    width: 100%;
+}
+
+.Acceuil-six.why-choose-area p.section-desc {
+    width: 75%;
+}
+
+.Acceuil-six .choose-us-content p {
+    width: 100%;
+}
+
+.Acceuil-six .single-pricing-box {
+    padding: 42px 40px 53px;
+    margin-bottom: 22px;
+}
+
+.Acceuil-six.pricing-area .single-pricing-box .echofy-button {
+    text-align: left;
+}
+
+.Acceuil-six.Equipe-area {
+    padding: 122px 0 103px;
+}
+
+.Acceuil-six .single-Equipe-box {
+    margin-bottom: 24px;
+}
+
+.Acceuil-six.skill-area {
+    background-position: center left;
+}
+
+.Acceuil-six .skill-bar span {
+    left: 99px;
+}
+
+.Acceuil-six span.skill-count2 {
+    left: 71px !important;
+}
+
+.Acceuil-six span.skill-count3 {
+    left: 121px !important;
+}
+
+.Acceuil-six.skill-area p.section-desc {
+    width: 73%;
+}
+
+.Acceuil-six.blog-area {
+    padding: 111px 0 94px;
+}
+
+.Acceuil-six .single-blog-box {
+    margin-bottom: 50px;
+}
+
+.Acceuil-six .blog-content a {
+    font-size: 18px;
+}
+
+.Acceuil-six .contact-content h4 {
+    font-size: 36px;
+    line-height: 38px;
+}
+
+.Acceuil-six .contact-left {
+    text-align: left;
+    left: 0;
+}
+
+.Acceuil-six .contact-icon {
+    margin: 0;
+    text-align: center;
+    margin-bottom: 43px;
+}
+
+.Acceuil-six .contact-title h4 {
+    margin-bottom: 50px;
+    margin-top: 42px;
+}
+
+.Acceuil-six.contact-area:before {
+    background: transparent;
+}
+
+.Acceuil-six .contact-submit-button button {
+    background: #ffff;
+    color: #49AE44;
+    border: 2px solid #fff
+}
+
+.Acceuil-six .footer-social-icon {
+    margin-bottom: 34px;
+}
+
+.Acceuil-six .footer-bottom-content ul li {
+    margin: 0 5px;
+}
+
+
+/*===============Acceuil Seven Responsive Css============*/
+.hero-area.Acceuil-seven {
+    background-position: center left;
+     height: 733px;
+    padding-top: 82px;
+}
+
+.Acceuil-seven .hero-content h1 {
+    font-size: 48px;
+    line-height: 48px;
+}
+
+.Acceuil-seven .hero-content p {
+    width: 90%;
+}
+
+.Acceuil-seven .hero-img {
+    display: none;
+}
+
+.Acceuil-six.services-title-area p.section-desc {
+    margin: 2px 0 0;
+}
+
+.services-title-area.Acceuil-seven .row.upper {
+    margin-left: 0;
+}
+
+.Acceuil-seven .project-content-two {
+    padding: 25px 16px 37px;
+    width: 90%;
+}
+
+.Acceuil-seven .choose-shape {
+    top: 12px;
+    left: 41%;
+}
+
+.Acceuil-seven .counter-content-two h4 {
+    font-size: 100px;
+    bottom: -8px;
+    left: -42px;
+}
+
+.counter-area.Acceuil-seven {
+    padding-left: 100px;
+}
+
+.Acceuil-seven .testi-author-rating {
+    right: 8px;
+    top: 99px;
+}
+
+.Acceuil-seven.faqs-area .section-title.left h1 {
+    font-size: 36px;
+    line-height: 35px;
+}
+
+.Acceuil-seven .vedio-content a {
+    top: 40px;
+}
+
+.Acceuil-seven .contact-left iframe {
+    width: 100%;
+    height: 360px;
+}
+
+.Acceuil-seven .contact-submit-button button {
+    background: #49AE44;
+    color: #fff;
+    margin-bottom: 128px;
+}
+
+
+
+
+
+
+
+/*===============All Inner Menu Responsive Css============*/
+.breadcumb-area {
+    padding: 227px 0 143px;
+}
+
+.breadcumb-title h4 {
+    font-size: 30px;
+    padding-bottom: 10px;
+}
+
+h4.services-details-title {
+    font-size: 25px;
+}
+
+.service-details-icon-box {
+    padding: 32px 17px 18px;
+    gap: 19px;
+}
+
+.services-details-area .single-benifits-box {
+    margin-bottom: 40px;
+}
+
+.service-details-text-content p {
+    font-size: 16px;
+    line-height: 26px;
+}
+
+.project-details-content h4 {
+    font-size: 28px;
+}
+
+.project-details-right {
+    margin-bottom: 37px;
+}
+
+.project-details-content h4 {
+    font-size: 32px;
+}
+
+.project-details-right {
+    margin-bottom: 37px;
+}
+
+h4.dontaion-detais-title {
+    font-size: 22px;
+}
+
+.donation-details-area button.submit-donation {
+    margin-bottom: 44px;
+}
+
+.faqs-area.inner .faqs-thumb {
+    margin-bottom: 32px;
+}
+
+.blog-list-content {
+    padding: 27px 13px 20px;
+}
+
+.blog-list-area .meta-blog span {
+    margin-right: 4px;
+}
+
+a.blog-list-title {
+    font-size: 18px;
+}
+
+.blog-details-content {
+    padding: 27px 22px 20px;
+}
+
+.blog-details-area span.mate-text {
+    padding-left: 27px;
+}
+
+.blog-details-area .meta-blog span {
+    margin-right: 6px;
+}
+
+h4.blog-details-title {
+    font-size: 18px;
+}
+
+.blog-details-author-talk {
+    display: block;
+}
+
+.blog-details-quote {
+    margin-bottom: 30px;
+}
+
+.blog-details-author-title p {
+    font-size: 17px;
+    line-height: 26px;
+}
+
+.blog-post-box {
+    padding: 84px 21px 31px 22px;
+    gap: 15px;
+}
+
+.blog-post-box.style-two {
+    padding: 85px 24px 31px 21px;
+}
+
+.blog-post-content a {
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.blog-details-thumb.two {
+    margin-bottom: 20px;
+}
+
+.blog-details-social-icon {
+    text-align: left;
+    padding-top: 25px;
+}
+
+.single-comment-area {
+    padding: 49px 21px 56px;
+    margin-bottom: 32px;
+}
+
+.blog-details-comment-thumb {
+    float: inherit;
+    margin-right: 10px;
+    margin-bottom: 18px;
+}
+
+.blog-details-comment {
+    padding: 29px 25px 25px;
+}
+
+.blog-details-comment-content h2 {
+    margin-right: 8px;
+}
+
+.blog-details-comment.style-two {
+    margin-left: 0px;
+}
+
+.blog-details-comment-reply {
+    right: 17px;
+}
+
+.row.contact-info-bg {
+    padding: 50px 30px 14px;
+}
+
+.contact-info-box {
+    margin-bottom: 35px;
+}
+
+
+
+
+}
+
+
+
+/* Mobile Devices :320px. */
+@media (min-width: 320px) and (max-width: 479px) {
+
+/*Acceuil 1 Resopnsive*/
+.top-header-area {
+   display: none;
+}
+
+.header-area {
+    display: none;
+}
+
+.sticky {
+    position: absolute !important;
+}
+
+.hero-area {
+    height: 740px;
+    padding-top: 57px;
+}
+
+.hero-content h1 {
+    font-size: 34px;
+    line-height: 34px;
+}
+
+.hero-social-icon {
+    display: none;
+}
+
+.hero-content p {
+    width: 100%;
+    font-size: 16px;
+}
+
+.hero-slides .owl-dots {
+    display: none;
+}
+
+.echofy-button.two {
+    margin-top: 25px;
+    padding-left: 0;
+}
+
+.about-thumb {
+    left: 0;
+    padding-bottom: 36px;
+}
+
+.about-thumb img {
+    width: 100%;
+}
+
+img.about-thumb-shape {
+    bottom: -8px;
+}
+
+.section-title.left h4 {
+    margin-bottom: 9px;
+}
+
+.section-title.left h1 {
+    font-size: 20px;
+    line-height: 20px;
+}
+
+.about-box-icon {
+    float: inherit;
+}
+
+.about-box-content p {
+    width: 100%;
+}
+
+.about-shape-2 {
+    left: 248px;
+}
+
+.service-area {
+    padding: 113px 0 110px;
+}
+
+.service-area .owl-nav {
+   display:none;
+}
+
+.service-content {
+    padding: 35px 20px 159px;
+}
+
+.service-content h4 {
+    font-size: 22px;
+}
+
+.service-thumb img {
+    padding: 0 19px;
+}
+
+.skill-area {
+    padding: 112px 0 115px;
+}
+
+p.section-desc {
+    width: 100%;
+}
+
+.skills-item-title h4 {
+    font-size: 18px;
+}
+
+.skills-item-content {
+    gap: 12px;
+    padding: 18px 50px 18px 26px;
+}
+
+.skills-thumb {
+    left: 0;
+}
+
+.skills-thumb img {
+    width: 100%;
+    padding-top: 38px;
+}
+
+.skills-shape {
+    top: -2px;
+    left: 0;
+}
+
+.counter-area {
+    padding: 80px 0 134px;
+    background-position: center center;
+}
+
+.single-counter-box {
+    margin-bottom: 37px;
+}
+
+#poress-row {
+    padding: 18px 7px 36px;
+}
+
+.porcess-thumb {
+    position: relative;
+    left: 0;
+    padding-bottom: 28px;
+}
+
+.porcess-thumb img {
+    width: 100%;
+}
+
+.project-area {
+    padding-left: 0;
+}
+
+.project-area .owl-nav {
+    display: none;
+}
+
+.project-content {
+    padding: 30px 19px 28px;
+    width: 95%;
+    height: 109px;
+}
+
+.project-content h4 {
+    margin: 0 0 7px;
+}
+
+.project-content a {
+    font-size: 20px;
+}
+
+a.project-button {
+    margin-top: 8px;
+}
+
+.process-area-two .section-title.center {
+    margin-bottom: 37px;
+}
+
+.process-area-two .section-title.center h4 {
+    margin-bottom: 13px;
+}
+
+.process-area-two .section-title.center h1 {
+    font-size: 22px;
+    line-height: 29px;
+}
+
+.single-process-box-two {
+    padding: 0 0 0;
+}
+
+.single-process-box-two::before {
+    display: none;
+}
+
+.single-process-box-two.style-three::before {
+    display: none;
+}
+
+.section-title.center h4 {
+    margin-bottom: 17px;
+}
+
+.section-title.center h1 {
+    font-size: 20px;
+    line-height: 20px;
+}
+
+.testimonial-area {
+    background-position: center;
+}
+
+.single-testimonial-box {
+    padding: 34px 23px 32px;
+    margin: 39px 10px;
+}
+
+.testi-shape-tow {
+    display: none;
+}
+
+.testi-shape-four {
+    display: none;
+}
+
+.testi-author {
+    display: block;
+}
+
+.testi-author-thumb {
+    padding-bottom: 13px;
+}
+
+p.testi-desc {
+    margin: 12px 0 17px;
+}
+
+.testi-shape {
+    left: -35%;
+}
+
+#brand-bg {
+    padding: 64px 0 61px;
+}
+
+.brand-content h4 {
+    margin-bottom: 22px;
+    font-size: 20px;
+}
+
+.single-shape {
+    display: none;
+}
+
+.Equipe-area {
+    background-position: center;
+}
+
+.blog-area .echofy-button {
+    margin-top: 0;
+    float: left;
+    margin-bottom: 60px;
+}
+
+.blog-content {
+    padding: 27px 14px 28px;
+}
+
+.blog-content a {
+    font-size: 19px;
+    line-height: 28px;
+}
+
+.footer-social-address {
+    padding: 49px 12px 55px;
+}
+
+.footer-social-address-content h4 {
+    font-size: 24px;
+}
+
+.footer-social-icon {
+    text-align: left;
+    padding-top: 16px;
+}
+
+.footer-social-icon ul li i {
+    font-size: 14px;
+    width: 35px;
+    height: 35px;
+    line-height: 33px;
+    margin: 0 0px;
+}
+
+p.footer-desc {
+    width: 90%;
+}
+
+.footer-widget-content {
+    margin-bottom: 25px;
+}
+
+.footer-bottom-area {
+    padding: 74px 0 33px;
+}
+
+.footer-bottom-content h4 {
+    line-height: 28px;
+}
+
+
+/*===============Acceuil two Responsive Css============*/
+
+.hero-area.Acceuil-two {
+    height: 600px;
+    padding-top: 58px;
+}
+
+.Acceuil-two .hero-thumb {
+    display: none;
+}
+
+.hero-content h4 {
+    font-size: 14px;
+    margin-bottom: 8px;
+}
+
+.Acceuil-two .hero-content h1 {
+    font-size: 30px;
+    line-height: 30px;
+}
+
+.Acceuil-two .hero-content p {
+    width: 100%;
+}
+
+.Acceuil-two .hero-shape {
+    display: none;
+}
+
+.Acceuil-two .about-thumb {
+    left: 0;
+}
+
+.Acceuil-two .about-video {
+    right: 14px;
+}
+
+.Acceuil-two .about-single-box {
+    display: block;
+}
+
+.Acceuil-two .about-author-box {
+    gap: 15px;
+}
+
+.Acceuil-two .about-author-content h4 {
+    font-size: 16px;
+}
+
+.Acceuil-two .about-author-content p {
+    margin-top: 3px;
+}
+
+.Acceuil-two.about-area .echofy-button {
+    margin-top: 30px;
+    display: inline-block;
+}
+
+.Acceuil-two .about-list-item ul li {
+    font-size: 15px;
+    line-height: 25px;
+    margin-bottom: 14px;
+}
+
+.Acceuil-two .about-list-item ul li i {
+    top: 3px;
+    margin-right: 5px;
+}
+
+.Acceuil-two.service-title-area {
+    padding: 112px 0 192px;
+}
+
+.Acceuil-two .row.service-up {
+    margin-top: -305px;
+}
+
+.Acceuil-two .service-content {
+    padding: 64px 19px 23px;
+}
+
+.services-shape-one {
+   display: none;
+}
+
+.services-shape-two {
+  display: none;
+}
+
+.Acceuil-two .row.fade-de {
+    padding: 85px 15px 55px;
+}
+
+.Acceuil-two.counter-area .section-title.left h1 {
+    font-size: 20px;
+    line-height: 20px;
+}
+
+.Acceuil-two.counter-area .section-title.left {
+    margin-bottom: 32px;
+}
+
+.Acceuil-two .single-counter-box {
+    gap: 12px;
+}
+
+.counter-content p {
+    font-size: 18px;
+    margin: -1px 0 0;
+}
+
+.Acceuil-two .project-content {
+    width: 100%;
+    left: 0;
+}
+
+.faq-singular .faq-question {
+    font-size: 14px;
+}
+
+.faqs-area p.section-desc {
+    width: 94%;
+}
+
+.faq-singular .faq-question {
+    padding: 19px 8px 19px 12px;
+}
+
+.faq-question img {
+    display: none;
+}
+
+.faq-question:after {
+  display: none;
+}
+
+.faq-singular .faq-question:before {
+    right: 9px;
+    top: 50%;
+    font-size: 22px;
+}
+
+.faq-answer {
+    padding: 21px 16px 25px;
+}
+
+.faqs-area .echofy-button {
+    margin-bottom: 38px;
+}
+
+.donation-title-area {
+    padding: 109px 0 187px;
+}
+
+.donation-area .row.donate {
+    margin-top: -189px;
+}
+
+.donation-content {
+    padding: 26px 24px 23px;
+}
+
+.donation-content a {
+    font-size: 16px;
+    line-height: 26px;
+}
+
+.single-donation-box:hover .donate-button {
+    bottom: 81px;
+}
+
+.donation-shape-one {
+   display: none;
+}
+
+.donation-shape-two {
+  display: none;
+}
+
+.Acceuil-two.testimonial-area {
+    background-position: center right;
+}
+
+.Acceuil-two.testimonial-area .testi-shape {
+    top: -18px;
+    left: -168px;
+}
+
+.text-block {
+    font-size: 16vw;
+}
+
+.blog-content a {
+    font-size: 18px;
+    line-height: 28px;
+}
+
+.footer-social-address-content h4 {
+    font-size: 31px;
+}
+
+.Acceuil-two.footer-area .echofy-button {
+    margin-top: 0;
+    display: inherit;
+    text-align: left;
+    margin-top: 23px;
+}
+
+.Acceuil-two p.footer-desc {
+    width: 95%;
+}
+
+.Acceuil-two .footer-widget-blog-content a {
+    font-size: 15px;
+    line-height: 24px;
+}
+
+
+
+/*===============Acceuil Three Responsive Css============*/
+
+.Acceuil-three.text-area {
+    padding: 179px 0 111px;
+}
+
+.Acceuil-three .text-area-content h1 {
+    font-size: 23px;
+}
+
+.Acceuil-three .text-area-content p {
+    width: 90%;
+}
+
+.Acceuil-three.hero-area {
+    height: 550px;
+    padding-top: 15px;
+}
+
+.Acceuil-three .hero-content h2 {
+    font-size: 32px;
+    letter-spacing: 10px;
+}
+
+.Acceuil-three .about-thumb {
+    left: 0;
+}
+
+.Acceuil-three .about-desc p {
+    width: 97%;
+    margin-top: 14px;
+}
+
+.Acceuil-three .nav-link {
+    padding: 12px 15px;
+    margin-right: 8px;
+    margin-bottom: 23px;
+}
+
+.Acceuil-three .single-about-item {
+    display: block;
+}
+
+.about-img {
+    margin-top: 26px;
+}
+
+.Acceuil-three.about-area .style-two.echofy-button a {
+    font-size: 15px;
+    padding: 12px 30px;
+}
+
+.Acceuil-three.services-area .row.add-background {
+    padding: 0 8px 39px;
+}
+
+.Acceuil-three .single-service-box {
+    margin-bottom: 20px;
+}
+
+.Acceuil-three.counter-area p.section-desc {
+    width: 86%;
+}
+
+.Acceuil-three .average-rating h4 {
+    margin: 0 0 15px;
+}
+
+.Acceuil-three .single-rating-box {
+    display: block;
+}
+
+.Acceuil-three .single-counter-box {
+    margin-top: 22px;
+}
+
+.Acceuil-three.project-area .section-title.left {
+    margin-bottom: 34px;
+}
+
+.Acceuil-three.project-area .section-title.left h1 {
+    font-size: 32px;
+    line-height: 40px;
+}
+
+.Acceuil-three.project-area .style-two.echofy-button {
+    float: left;
+    margin-top: 0;
+    margin-bottom: 45px;
+}
+
+.Acceuil-three.project-area .container-fluid {
+    margin: 0 0 0 10px;
+}
+
+.Acceuil-three .single-project-content a {
+    font-size: 19px;
+}
+
+.Acceuil-three.skill-area {
+    background-position: center right;
+}
+
+.Acceuil-three .vedio-content {
+    display: none;
+}
+
+.Acceuil-three.testimonial-area .section-title.center h1 {
+    font-size: 17px;
+}
+
+.Acceuil-three .single-testi-box {
+    padding: 56px 26px 33px;
+}
+
+.Acceuil-three .testi-rating-box {
+    display: block;
+}
+
+.Acceuil-three .faqs-thumb {
+    margin-top: 17px;
+    left: 0;
+}
+
+.faqs-thumb img {
+    width: 100%;
+}
+
+.Acceuil-three .blog-content {
+    padding: 37px 17px 39px;
+}
+
+.Acceuil-three .meta-blog span {
+    margin-right: 5px;
+}
+
+.Acceuil-three .blog-title a {
+    font-size: 17px;
+    line-height: 26px;
+}
+
+.Acceuil-three .subscribe-content p {
+    margin: 10px 0 33px;
+}
+
+.Acceuil-three .subscribe-box input {
+    width: 100%;
+}
+
+.Acceuil-three .subscribe-box button {
+    left: 0px;
+    margin-top: 16px;
+    float: inherit;
+}
+
+.Acceuil-three .footer-widget-content {
+    margin-bottom: 48px;
+}
+
+.Acceuil-three .footer-bottom-area {
+    margin-top: 58px;
+}
+
+
+/*===============Acceuil Four Responsive Css============*/
+.Acceuil-four.hero-area {
+    background-position: center right;
+    height: 748px;
+}
+
+.Acceuil-four .hero-content h1 {
+    font-size: 34px;
+    line-height: 34px;
+}
+
+.Acceuil-four h2.solar-text {
+    font-size: 60px;
+    top: -35px;
+    left: -9px;
+}
+
+.Acceuil-four .hero-content p {
+    width: 100%;
+}
+
+.Acceuil-four .hero-contact {
+    margin-left: 0;
+    margin-top: 22px;
+}
+
+.Acceuil-four .single-conter-box {
+    margin-top: 36px;
+}
+
+.Acceuil-four .about-thumb {
+    position: relative;
+    left: 0;
+}
+
+.Acceuil-four .about-single-text-box {
+    display: none;
+}
+
+.Acceuil-four .about-shape {
+    display: none;
+}
+
+.Acceuil-four .about-itme-list ul li {
+    font-size: 16px;
+}
+
+.Acceuil-four .about-single-text-box {
+    right: -13px;
+    bottom: 16px;
+    width: 65%;
+}
+
+.Acceuil-four .about-item-box {
+    display: block;
+}
+
+.Acceuil-four .single-services-box {
+    padding: 35px 13px 45px;
+}
+
+.Acceuil-four .services-content h4 {
+    font-size: 20px;
+}
+
+.solar-text-contnet h4 {
+    font-size: 28px;
+}
+
+.Acceuil-four .skill-thumb img {
+    width: 100%;
+}
+
+.Acceuil-four .testi-thumb {
+    left: 0;
+}
+
+.Acceuil-four .testi-thumb img {
+    width: 100%;
+}
+
+.Acceuil-four .testi-content {
+    bottom: 62px;
+}
+
+.Acceuil-four p.testi-text {
+    width: 100%;
+}
+
+.Acceuil-four .testi-author {
+    display: block;
+    margin-top: 26px;
+}
+
+.Acceuil-four .testi-coustomar-raing ul li {
+    left: -88px;
+    top: 19px;
+}
+
+.Acceuil-four .info-content {
+    margin-left: 0;
+    padding: 32px 15px 28px;
+}
+
+.Acceuil-four .info-content h4 {
+    font-size: 19px;
+    line-height: 30px;
+}
+
+.Acceuil-four .call-do-action-content h4 {
+    font-size: 26px;
+    line-height: 40px;
+}
+
+.Acceuil-four .info-shape {
+    right: 41%;
+    top: 45px;
+}
+
+.Acceuil-four.call-do-action-area .style-three.echofy-button {
+    float: left;
+    margin-top: 39px;
+}
+
+.Acceuil-four .footer-widget-menu-list ul li {
+    display: inline-block;
+    float: left;
+    margin-left: 18px;
+    margin-top: 16px;
+}
+
+
+
+
+
+
+/*===============Acceuil Five Responsive Css============*/
+
+.Acceuil-five.hero-area {
+    padding-top: 79px;
+    padding-bottom: 154px;
+    height: 865px;
+}
+
+.Acceuil-five .hero-info {
+    display: none;
+}
+
+.Acceuil-five .hero-content h1 {
+    font-size: 30px;
+    line-height: 30px;
+}
+
+.Acceuil-five .hero-content p {
+    width: 90%;
+    font-size: 16px;
+}
+
+.Acceuil-five.video-area {
+    width: 99%;
+    left: 0;
+    margin-top: -142px;
+}
+
+.hero-slide-five .owl-dots {
+   display: none;
+}
+
+.slider-counter {
+    display: none;
+}
+.slider-counter:before{
+    display: none;
+}
+
+.Acceuil-five.animal-area {
+    padding: 187px 0 99px;
+}
+
+.Acceuil-five .single-animal-box {
+    margin-bottom: 24px;
+}
+
+.Acceuil-five .single-animal-box.active .animal-link-icon a {
+    top: 43%;
+    left: 45%;
+}
+
+.Acceuil-five .single-about-box {
+    right: 0px;
+}
+
+.Acceuil-five .section-title.left h1 {
+    font-size: 19px;
+    line-height: 15px;
+}
+
+.Acceuil-five .about-contact-box {
+    display: block;
+    margin-top: 48px;
+}
+
+.Acceuil-five .about-contact-info {
+    margin-top: 23px;
+}
+
+.Acceuil-five .about-shape {
+    display: none;
+}
+
+.Acceuil-five .about-icon img {
+    width: 30%;
+}
+
+.Acceuil-five.about-area p.section-desc {
+    width: 88%;
+}
+
+.Acceuil-five .about-item-text h4 {
+    font-size: 14px;
+}
+
+.Acceuil-five p.about-desc {
+    width: 90%;
+}
+
+.Acceuil-five.gallery-area .style-four.echofy-button {
+    float: left;
+    margin-top: -16px;
+    margin-bottom: 58px;
+}
+
+.Acceuil-five .contact-info-title h4 {
+    font-size: 15px;
+}
+
+.Acceuil-five .contact-info-title h1 {
+    font-size: 18px;
+    margin-top: 13px;
+}
+
+.Acceuil-five.contact-info-area .contact-info-box {
+    padding-left: 0;
+    margin: 0;
+    margin-top: 32px;
+}
+
+.Acceuil-five.contact-info-area .echofy-button {
+    margin-top: 43px;
+}
+
+.Acceuil-five .section-title.center h1 {
+    font-size: 20px;
+    line-height: 20px;
+}
+
+.Acceuil-five .nav-link {
+    padding: 20px 64px;
+}
+
+.Acceuil-five .single-event-box {
+    display: block;
+    padding: 12px 10px;
+}
+
+.Acceuil-five .event-titel h4 {
+    font-size: 16px;
+    line-height: 23px;
+}
+
+.Acceuil-five .single-event:hover {
+    height: 806px;
+}
+
+.Acceuil-five .event-date span {
+    font-size: 15px;
+}
+
+.Acceuil-five .event-date i {
+    margin-right: 4px;
+}
+
+.Acceuil-five .event-desc-box {
+    padding: 28px 0px 0 16px;
+}
+
+.Acceuil-five .single-event-button a {
+    padding: 20px 22px;
+    font-size: 14px;
+}
+
+.Acceuil-five.donation-area .section-title.left h1 {
+    font-size: 18px;
+    line-height: 20px;
+}
+
+.Acceuil-five.donation-area p.section-desc {
+    width: 100%;
+}
+
+.Acceuil-five .donation-list ul li a {
+    padding: 7px 10px;
+}
+
+.Acceuil-five .single-donation-box {
+    padding: 97px 16px 112px;
+}
+
+.Acceuil-five .donation-list ul li {
+    display: inline-block;
+    margin-right: 0px;
+}
+
+.Acceuil-five .donation-right {
+    padding: 119px 26px 137px;
+    margin-top: 30px;
+}
+
+.Acceuil-five .donation-right-content h1 {
+    font-size: 26px;
+}
+
+.Acceuil-five.animal-video-area .section-title.left h1 {
+    line-height: 20px;
+    font-size: 18px;
+}
+
+.Acceuil-five .animal-video-button {
+    float: left;
+    margin-top: 45px;
+}
+
+.Acceuil-five.animal-video-area .echofy-button {
+    margin-top: -15px;
+}
+
+.Acceuil-five .single-testimonial-box {
+    padding: 34px 18px 32px 42px;
+}
+
+.Acceuil-five .testimonial-content p {
+    font-size: 15px;
+    line-height: 24px;
+}
+
+.Acceuil-five .blog-content {
+    padding: 27px 22px 41px;
+    width: 93%;
+}
+
+.Acceuil-five .blog-content a {
+    font-size: 17px;
+}
+
+.Acceuil-five .meta-blog span {
+    margin-right: 16px;
+}
+
+.Acceuil-five .footer-contact-info {
+    margin-top: 23px;
+}
+
+.Acceuil-five .footer-widget-gallery a img {
+    margin: 5px -1px;
+}
+
+.footer-bottom-content {
+    float: left;
+    margin-top: 8px;
+}
+
+.Acceuil-five .footer-bottom-content ul li {
+    margin: 0 5px;
+}
+
+.Acceuil-five .footer-bottom-content p {
+    font-size: 15px;
+}
+
+
+
+/*===============Acceuil Six Responsive Css============*/
+
+.hero-area.Acceuil-six {
+    height: 700px;
+    padding-top: 23px;
+}
+
+.Acceuil-six .hero-content h4 {
+    font-size: 12px;
+    margin-bottom: 20px;
+}
+
+.hero-area.Acceuil-six .hero-content h1 {
+    font-size: 20px;
+    line-height: 24px;
+}
+
+.Acceuil-six .single-feature-box {
+    padding: 26px 29px 37px;
+    margin-bottom: 23px;
+    display: block;
+}
+
+.Acceuil-six .section-title.left h1 {
+    font-size: 22px;
+    line-height: 20px;
+}
+
+.Acceuil-six .section-title.center h1 {
+    font-size: 18px;
+    line-height: 18px;
+}
+
+.Acceuil-six.about-area {
+    padding: 81px 0 123px;
+}
+
+.Acceuil-six .about-item-box {
+    display: block;
+}
+
+.Acceuil-six .about-list-item ul li i {
+    margin-right: 7px;
+}
+
+.Acceuil-six.service-area .row.upper {
+     top: -321px;
+    margin-left: -2px;
+}
+
+.Acceuil-six .single-service-box {
+    padding: 11px 13px 43px;
+}
+
+.Acceuil-six.why-choose-area {
+    padding: 375px 0 84px;
+}
+
+.Acceuil-six .why-choose-us-item {
+    display: block;
+}
+
+.Acceuil-six .why-choose-thumb {
+    left: 0;
+    margin-bottom: 43px;
+}
+
+.Acceuil-six .why-choose-thumb img{
+    width: 100%;
+}
+
+.Acceuil-six.why-choose-area p.section-desc {
+    width: 100%;
+}
+
+.Acceuil-six .choose-us-content p {
+    width: 100%;
+}
+
+.Acceuil-six .choose-us-icon {
+    margin-bottom: 18px;
+}
+
+.Acceuil-six .choose-us-content h4 {
+    font-size: 17px;
+}
+
+.Acceuil-six .single-pricing-box {
+    padding: 42px 15px 53px;
+    margin-bottom: 22px;
+}
+
+.Acceuil-six.pricing-area .single-pricing-box .echofy-button {
+    text-align: left;
+}
+
+.Acceuil-six.Equipe-area {
+    padding: 122px 0 103px;
+}
+
+.Acceuil-six .single-Equipe-box {
+    margin-bottom: 24px;
+}
+
+.Acceuil-six.skill-area {
+    background-position: center left;
+}
+
+.Acceuil-six .skill-bar span {
+    left: 70px;
+}
+
+.Acceuil-six span.skill-count2 {
+    left: 43px !important;
+}
+
+.Acceuil-six span.skill-count3 {
+    left: 77px !important;
+}
+
+.Acceuil-six.skill-area p.section-desc {
+    width: 100%;
+}
+
+.Acceuil-six .single-testimonial-box {
+    padding: 25px 22px 49px;
+    margin: 57px -5px;
+}
+
+.Acceuil-six.blog-area {
+    padding: 111px 0 94px;
+}
+
+.Acceuil-six .single-blog-box {
+    margin-bottom: 50px;
+}
+
+.Acceuil-six .blog-content {
+    padding: 23px 18px 54px;
+}
+
+.Acceuil-six .blog-content a {
+    font-size: 16px;
+}
+
+.Acceuil-six .contact-content h4 {
+    font-size: 21px;
+    line-height: 20px;
+}
+
+.Acceuil-six .contact-left {
+    text-align: left;
+    left: 0;
+}
+
+.Acceuil-six .contact-icon {
+    margin: 0;
+    text-align: center;
+    margin-bottom: 43px;
+}
+
+.Acceuil-six .contact-title h4 {
+    margin-bottom: 50px;
+    margin-top: 42px;
+     font-size: 26px;
+}
+
+.Acceuil-six.contact-area:before {
+    background: transparent;
+}
+
+.Acceuil-six .contact-submit-button button {
+    background: #ffff;
+    color: #49AE44;
+    border: 2px solid #fff
+}
+
+.Acceuil-six .footer-social-icon {
+    margin-bottom: 34px;
+}
+
+.Acceuil-six .footer-bottom-content ul li {
+    margin: 0 5px;
+}
+
+/*===============Acceuil Seven Responsive Css============*/
+.hero-area.Acceuil-seven {
+    background-position: center left;
+     height: 733px;
+    padding-top: 82px;
+}
+
+.Acceuil-seven .hero-content h4 {
+    font-size: 12px;
+}
+
+.Acceuil-seven .hero-content h1 {
+    font-size: 30px;
+    line-height: 26px;
+}
+
+.Acceuil-seven .hero-content p {
+    width: 90%;
+}
+
+.Acceuil-seven .hero-img {
+    display: none;
+}
+
+.Acceuil-six.services-title-area p.section-desc {
+    margin: 2px 0 0;
+}
+
+.services-title-area.Acceuil-seven .row.upper {
+    margin-left: 0;
+}
+
+.Acceuil-seven .project-content-two {
+    padding: 25px 16px 37px;
+    width: 90%;
+}
+
+.Acceuil-seven .choose-shape {
+    top: 12px;
+    left: 41%;
+}
+
+.why-choose-us-right {
+    display: block;
+    width: 100%;
+}
+
+.single-choose-us-box {
+    margin-bottom: 26px;
+}
+
+.single-project-box-two {
+    position: relative;
+    margin: 0 0;
+}
+
+.project-content-two h4 {
+    font-size: 18px;
+}
+
+.Acceuil-seven .counter-content-two h4 {
+    font-size: 100px;
+    bottom: -8px;
+    left: -42px;
+}
+
+.counter-area.Acceuil-seven {
+    padding-left: 50px;
+}
+
+.Acceuil-seven .single-testi-box {
+    padding: 29px 19px 34px;
+    margin: 0 0px;
+}
+
+.Acceuil-seven .testi-author-rating {
+    right: -60px;
+    top: 98px;
+    transform: rotate(90deg);
+}
+
+.Acceuil-seven.faqs-area .section-title.left h1 {
+    font-size: 36px;
+    line-height: 35px;
+}
+
+.Acceuil-seven .faq-singular .faq-question:before {
+    right: 1px;
+    font-size: 20px;
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+}
+
+.Acceuil-seven .vedio-content a {
+    top: 40px;
+}
+
+.Acceuil-seven .contact-left iframe {
+    width: 100%;
+    height: 360px;
+}
+
+.Acceuil-seven .contact-submit-button button {
+    background: #49AE44;
+    color: #fff;
+    margin-bottom: 128px;
+}
+
+
+.Acceuil-six.Acceuil-seven .blog-content {
+    padding: 23px 17px 54px;
+}
+
+.Acceuil-seven .marque-content h4 {
+    font-size: 45px;
+}
+
+
+
+
+/*===============All Inner Menu Responsive Css============*/
+
+
+
+.breadcumb-area {
+    padding: 177px 0 98px;
+}
+
+.breadcumb-title h4 {
+    font-size: 22px;
+    padding-bottom: 8px;
+}
+
+h4.services-details-title {
+    font-size: 16px;
+    line-height: 26px;
+}
+
+.service-details-icon-box {
+    padding: 32px 17px 18px;
+    display: block;
+    text-align: center;
+}
+
+.services-details-area .single-benifits-box {
+    margin-bottom: 40px;
+}
+
+.services-details-text {
+    padding: 29px 26px;
+    display: block;
+}
+
+.service-details-text-icon {
+    margin-bottom: 12px;
+}
+
+.service-details-text-content p {
+    font-size: 18px;
+    line-height: 26px;
+    width: 100%;
+}
+
+.service-details-icon-thumb {
+    margin-bottom: 20px;
+}
+
+.services-details-area .benifits-content {
+    padding: 30px 18px 23px;
+    width: 100%;
+}
+
+/*widget-sidber*/
+.widget-sidber {
+    padding: 32px 16px 29px;
+}
+.recent-widget-content a {
+    font-size: 14px;
+    line-height: 23px;
+    width: 100%;
+}
+
+.widget-sidber-contact-box {
+    padding: 48px 18px 48px;
+}
+
+.widget-sidber-contact-btn  a {
+    padding: 16px 50px 15px;
+    margin-top: 42px;
+}
+
+.project-details-content h4 {
+    font-size: 18px;
+}
+
+.project-details-content h3 {
+    font-size: 22px;
+}
+
+.project-details-right {
+    margin-bottom: 37px;
+}
+
+a.project-details-text {
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.donation-details-area .donation-content {
+    padding: 67px 7px 23px;
+}
+
+h4.dontaion-detais-title {
+    font-size: 20px;
+    line-height: 32px;
+}
+
+.donation-details-area .dpx label {
+    margin-right: 17px;
+}
+
+.donation-details-area button.submit-donation {
+    margin-bottom: 44px;
+}
+
+.faqs-area.inner .faqs-thumb {
+    margin-bottom: 32px;
+}
+
+.blog-list-content {
+    padding: 27px 13px 20px;
+}
+
+.blog-list-area .meta-blog span {
+    margin-right: 4px;
+}
+
+a.blog-list-title {
+    font-size: 18px;
+}
+
+.blog-details-content {
+    padding: 27px 13px 20px;
+}
+
+h4.blog-details-title {
+    font-size: 18px;
+    line-height: 28px;
+}
+
+.blog-details-author-talk {
+    display: block;
+    padding: 41px 20px 40px;
+}
+
+.blog-details-quote {
+    margin-bottom: 30px;
+}
+
+h3.blog-details-title {
+    font-size: 18px;
+}
+
+h3.blog-details-title.two {
+    font-size: 18px;
+}
+
+.blog-details-socila-box {
+    padding: 19px 7px 18px;
+}
+
+.blog-details-category span a {
+    padding: 6px 10px;
+    margin-right: 7px;
+}
+
+.blog-details-author-title p {
+    font-size: 17px;
+    line-height: 26px;
+}
+
+.blog-post-box {
+    padding: 84px 21px 31px 22px;
+    gap: 15px;
+}
+
+.blog-post-box.style-two {
+    padding: 85px 24px 31px 21px;
+}
+
+.blog-post-content a {
+    font-size: 12px;
+    line-height: 19px;
+}
+
+.blog-details-post .owl-prev {
+    left: 24px;
+    font-size: 15px !important;
+}
+
+.blog-details-post .owl-next {
+    right: 20px;
+    font-size: 15px;
+}
+
+.blog-details-thumb.two {
+    margin-bottom: 20px;
+}
+
+.blog-details-social-icon {
+    text-align: left;
+    padding-top: 25px;
+}
+
+.single-comment-area {
+    padding: 49px 21px 56px;
+    margin-bottom: 32px;
+}
+
+.blog-details-comment-thumb {
+    float: inherit;
+    margin-right: 10px;
+    margin-bottom: 18px;
+}
+
+.blog-details-comment {
+    padding: 29px 14px 25px;
+}
+
+.blog-details-comment-content h2 {
+    margin-right: 8px;
+    font-size: 16px;
+}
+
+.blog-details-comment.style-two {
+    margin-left: 0px;
+}
+
+.blog-details-comment-reply {
+    right: 17px;
+}
+
+.row.contact-info-bg {
+    padding: 50px 30px 14px;
+}
+
+.contact-info-box {
+    margin-bottom: 35px;
+    padding: 0 0px 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*xl device min width*/
+@media screen and (min-width:992px) {
+    .pl-lg-50 {
+        padding-left: 50px;
+    }
+}
+
+/*xl device min width*/
+@media screen and (min-width:1200px) {
+    .video-icon {
+        left: 75%;
+    }
+}

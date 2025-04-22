@@ -1,0 +1,16 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 19 Apr 2025 22:14:56 at https://html.ditsolution.net/echofy/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "fr, en, *" https://html.ditsolution.net/echofy/index.html -O1 "C:\Mes Sites Web\eckofy" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:17:50	Error: 	"Not Found" (404) at link https://html.ditsolution.net/echofy/blog-grid (from https://html.ditsolution.net/echofy/index.html)
+22:17:51	Error: 	"Not Found" (404) at link https://html.ditsolution.net/echofy/assets/css/owl.video.play.png (from https://html.ditsolution.net/echofy/assets/css/owl.carousel.min.css)
+22:17:53	Error: 	"Not Found" (404) at link https://html.ditsolution.net/echofy/assets/fonts/Flaticond41d.eot? (from https://html.ditsolution.net/echofy/assets/css/flaticon.css)
+22:17:54	Error: 	"Not Found" (404) at link https://html.ditsolution.net/echofy/index (from https://html.ditsolution.net/echofy/index-2.html)
+22:17:54	Error: 	"Not Found" (404) at link https://html.ditsolution.net/echofy/service-details (from https://html.ditsolution.net/echofy/index-2.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 58 seconds : 411 links scanned, 405 files written (26242105 bytes overall) [22908674 bytes received at 128700 bytes/sec], 5151054 bytes transferred using HTTP compression in 79 files, ratio 31%, 29.5 requests per connection
+(5 errors, 0 warnings, 0 messages)
